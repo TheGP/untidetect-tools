@@ -44,6 +44,9 @@ For Selenium/Python:
 [Puppeteer-Humanize](https://www.npmjs.com/package/@forad/puppeteer-humanize)  
 [Ghost-Cursor](https://github.com/Xetera/ghost-cursor) - generate realistic, human-like mouse movement data between coordinates
 
+# Captha solvers
+[Capsolver](https://dashboard.capsolver.com/passport/register?inviteCode=U2gREjbK6qnY)
+
 # Other
 
 Article [How to bypass “slider CAPTCHA” with JS and Puppeteer](https://filipvitas.medium.com/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)
