@@ -23,6 +23,7 @@ Just making a tools list for my project, feel free to send pull requests :)
 [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you protected from fingerprinting  
 [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
 [Fingerprint](https://fingerprint.com/demo/) - see your fingerprint  
+[Sannysoft Fingerprint](https://bot..com/) - check your fingerprint  
 
 # Anti-detect libs
 
