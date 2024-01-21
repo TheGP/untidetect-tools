@@ -12,9 +12,11 @@ Just making a tools list for my project, feel free to send pull requests :)
 [Indigo](https://www.goindigo.in/) - €99 for 100 profiles  
 [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited  
 [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free  
+[Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio
   
   
 # Detection tests
+
 [Creep JS](https://abrahamjuliot.github.io/creepjs/) - the most advanced detector  
 [Pixelscan](https://pixelscan.net/) - simple fingerprint checker  
 [Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha  
@@ -24,15 +26,29 @@ Just making a tools list for my project, feel free to send pull requests :)
 
 # Anti-detect libs
 
-For puppeteer:
+For Puppeteer:  
 [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer) - hides exposed API of Puppeteer, so it becomes undirected by CreepJS  
 [Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) - trash, as easily detected by CreepJS
+[Fingerprints from Bablosoft](http://fingerprints.bablosoft.com/) - free and paid fingerprints to use
+[Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data
+
+For Selenium/Python:  
+[Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)  
 
 # Humanizing
 
 [Fake-browser](https://github.com/kkoooqq/fakebrowser) Based on Puppeteer, with human-like interactions  
 [Bezier mouse movements](https://github.com/Pomax/bezierjs)  
-[definitely-not-a-robot](https://github.com/dougwithseismic/npm-definitely-not-a-robot)
+[Definitely-not-a-robot](https://github.com/dougwithseismic/npm-definitely-not-a-robot)  
+[Puppeteer-Humanize](https://www.npmjs.com/package/@forad/puppeteer-humanize)  
+
 
 # Other
+
 Article [How to bypass “slider CAPTCHA” with JS and Puppeteer](https://filipvitas.medium.com/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)
+
+# Antidetection ideas
+
+Browser - use [separately downloaded](https://incolumitas.com/2021/05/20/avoid-puppeteer-and-playwright-for-scraping/) version of Chrome instead of Chromium, and pass it in executablePath in Puppeteer.  
+Screen width/height + Window height/width  - can be emulated by attaching a debugger via Chrome extension
+
