@@ -18,7 +18,7 @@ Just making a tools list for my project, feel free to send pull requests :)
 [Creep JS](https://abrahamjuliot.github.io/creepjs/) - the most advanced detector  
 [Pixelscan](https://pixelscan.net/) - simple fingerprint checker  
 [Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha  
-[Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you protected from fingerprinting
+[Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you protected from fingerprinting  
 [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
 [Fingerprint](https://fingerprint.com/demo/) - see your fingerprint  
 
@@ -26,7 +26,7 @@ Just making a tools list for my project, feel free to send pull requests :)
 
 For puppeteer:
 [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer) - hides exposed API of Puppeteer, so it becomes undirected by CreepJS  
-[Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth - trash, as easily detected by CreepJS
+[Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) - trash, as easily detected by CreepJS
 
 # Humanizing
 
