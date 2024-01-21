@@ -25,4 +25,14 @@ Just making a tools list for my project, feel free to send pull requests :)
 # Anti-detect libs
 
 For puppeteer:
-[Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer)
+[Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer) - hides exposed API of Puppeteer, so it becomes undirected by CreepJS  
+[Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth - trash, as easily detected by CreepJS
+
+# Humanizing
+
+[Fake-browser](https://github.com/kkoooqq/fakebrowser) Based on Puppeteer, with human-like interactions  
+[Bezier mouse movements](https://github.com/Pomax/bezierjs)  
+[definitely-not-a-robot](https://github.com/dougwithseismic/npm-definitely-not-a-robot)
+
+# Other
+Article [How to bypass “slider CAPTCHA” with JS and Puppeteer](https://filipvitas.medium.com/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)
