@@ -28,10 +28,10 @@ Just making a tools list for my project, feel free to send pull requests :)
 
 For Puppeteer:  
 [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer) - hides exposed API of Puppeteer, so it becomes undirected by CreepJS  
-[Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) - trash, as easily detected by CreepJS
-[Fingerprints from Bablosoft](http://fingerprints.bablosoft.com/) - free and paid fingerprints to use
-[Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data
-
+[Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) - trash, as easily detected by CreepJS  
+[Fingerprints from Bablosoft](http://fingerprints.bablosoft.com/) - free and paid fingerprints to use  
+[Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data  
+  
 For Selenium/Python:  
 [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)  
 
@@ -41,7 +41,7 @@ For Selenium/Python:
 [Bezier mouse movements](https://github.com/Pomax/bezierjs)  
 [Definitely-not-a-robot](https://github.com/dougwithseismic/npm-definitely-not-a-robot)  
 [Puppeteer-Humanize](https://www.npmjs.com/package/@forad/puppeteer-humanize)  
-
+[Ghost-Cursor](https://github.com/Xetera/ghost-cursor) - generate realistic, human-like mouse movement data between coordinates
 
 # Other
 
