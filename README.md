@@ -29,6 +29,7 @@ Just making a tools list for my project, feel free to send pull requests :)
 [Sannysoft Fingerprint](https://bot..com/) - check your fingerprint  
 [BrowserLeaks](https://browserleaks.com/)  
 [F.vision](http://f.vision/)  
+[Extension-detector](https://z0ccc.github.io/extension-detector/)
   
 More tools can be found: https://github.com/kkoooqq/fakebrowser  
 
