@@ -22,7 +22,7 @@ Just making a tools list for my project, feel free to send pull requests :)
 [Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha  
 [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you protected from fingerprinting  
 [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
-[Fingerprint](https://fingerprint.com/demo/) - see your fingerprint  
+[AmIUnique Fingerprint](https://amiunique.org/fingerprint) - see your fingerprint  
 [Sannysoft Fingerprint](https://bot..com/) - check your fingerprint  
 
 # Anti-detect libs
