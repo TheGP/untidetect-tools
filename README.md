@@ -15,7 +15,7 @@ Just making a tools list for my project, feel free to send pull requests :)
 [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio  
 [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users  
 [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100
-
+[OctoBrowser](https://octobrowser.net/)
 
   
 # Detection tests
