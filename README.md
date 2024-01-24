@@ -36,6 +36,7 @@ https://antbrowser.pro/ - too many lies detected by CreepJS
 [BrowserLeaks](https://browserleaks.com/)  
 [F.vision](http://f.vision/)  
 [Extension-detector](https://z0ccc.github.io/extension-detector/)
+[Audio fingerprint](https://audiofingerprint.openwpm.com/)
   
 More tools can be found: https://github.com/kkoooqq/fakebrowser  
 
