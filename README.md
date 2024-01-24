@@ -68,7 +68,7 @@ Article [How to bypass “slider CAPTCHA” with JS and Puppeteer](https://filip
 # Antidetection ideas
 
 Browser - use [separately downloaded](https://incolumitas.com/2021/05/20/avoid-puppeteer-and-playwright-for-scraping/) version of Chrome instead of Chromium, and pass it in executablePath in Puppeteer.  
-Screen width/height + Window height/width  - can be emulated by attaching a debugger via Chrome extension, but screen.availHeight and width will be wrong. So better change screen size on a  virtual machine.  
-Disable WebRTC when using proxies: https://github.com/puppeteer/puppeteer/issues/6377  
-Match all proper browser headers in the same order
-
+* Screen width/height + Window height/width  - can be emulated by attaching a debugger via Chrome extension, but screen.availHeight and width will be wrong. So better change screen size on a  virtual machine.  
+* Disable WebRTC when using proxies/mask public ip: https://github.com/puppeteer/puppeteer/issues/6377  
+* Match all proper browser headers in the same order
+* Autocontext api https://habr.com/ru/companies/globalsign/articles/475586/ 
