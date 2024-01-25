@@ -22,21 +22,21 @@ Just making a tools list for my project, feel free to send pull requests :)
 * [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
 * [GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
   
-https://cpa.rip/stati/antidetect-palivo/  
+https://cpa.rip/stati/antidetect-palivo/ - a bit old article of how anti-detect browsers can be detected
   
 # Detection tests
 
-[Creep JS](https://abrahamjuliot.github.io/creepjs/) - the most advanced detector  
-[Pixelscan](https://pixelscan.net/) - simple fingerprint checker  
-[Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha  
-[Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you protected from fingerprinting  
-[ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
-[AmIUnique Fingerprint](https://amiunique.org/fingerprint) - see your fingerprint  
-[Sannysoft Fingerprint](https://bot..com/) - check your fingerprint  
-[BrowserLeaks](https://browserleaks.com/)  
-[F.vision](http://f.vision/)  
-[Extension-detector](https://z0ccc.github.io/extension-detector/)
-[Audio fingerprint](https://audiofingerprint.openwpm.com/)
+* [Creep JS](https://abrahamjuliot.github.io/creepjs/) - the most advanced detector  
+* [Pixelscan](https://pixelscan.net/) - simple fingerprint checker  
+* [Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha  
+* [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you protected from fingerprinting  
+* [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
+* [AmIUnique Fingerprint](https://amiunique.org/fingerprint) - see your fingerprint  
+* [Sannysoft Fingerprint](https://bot..com/) - check your fingerprint  
+* [BrowserLeaks](https://browserleaks.com/)  
+* [F.vision](http://f.vision/)  
+* [Extension-detector](https://z0ccc.github.io/extension-detector/)
+* [Audio fingerprint](https://audiofingerprint.openwpm.com/)
   
 More tools can be found: https://github.com/kkoooqq/fakebrowser  
 
