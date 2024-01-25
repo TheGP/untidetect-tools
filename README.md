@@ -2,25 +2,25 @@
 Just making a tools list for my project, feel free to send pull requests :)  
 
 # Anti-detect browsers
-[Multilogin](https://multilogin.com/) - starts from €74 for 100 profiles  
-[Incogniton](https://incogniton.com/aff/620515/) - 10 free, $29.99/Month for 50  
-[Octo Browser](https://octobrowser.net) - starts from €21 for 10  
-[Kameleo](https://kameleo.io/) - starts €59/user with unlimited profiles  
-[Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - $24 for 100 profiles, no unlimited plan, free proxies  
-[AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan  
-[Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
-[Indigo](https://www.goindigo.in/) - €99 for 100 profiles  
-[GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited  
-[Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs"  
-[Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio  
-[Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users  
-[Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100  
-[OctoBrowser](https://octobrowser.net/)  
-[ixBrowser](https://ixbrowser.com/en)
+* [Multilogin](https://multilogin.com/) - starts from €74 for 100 profiles  
+* [Incogniton](https://incogniton.com/aff/620515/) - 10 free, $29.99/Month for 50  
+* [Octo Browser](https://octobrowser.net) - starts from €21 for 10  
+* [Kameleo](https://kameleo.io/) - starts €59/user with unlimited profiles  
+* [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - $24 for 100 profiles, no unlimited plan, free proxies  
+* [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan  
+* [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
+* [Indigo](https://www.goindigo.in/) - €99 for 100 profiles  
+* [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited  
+* [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs"  
+* [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio  
+* [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users  
+* [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100  
+* [OctoBrowser](https://octobrowser.net/)  
+* [ixBrowser](https://ixbrowser.com/en)  
 
-https://antbrowser.pro/ - too many lies detected by CreepJS
-[Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
-[GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
+* [antbrowser](https://antbrowser.pro) - too many lies detected by CreepJS
+* [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
+* [GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
   
 https://cpa.rip/stati/antidetect-palivo/  
   
