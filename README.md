@@ -76,7 +76,8 @@ For Selenium/Python:
 
 # Other
 
-Article [How to bypass “slider CAPTCHA” with JS and Puppeteer](https://filipvitas.medium.com/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)
+* Article [How to bypass “slider CAPTCHA” with JS and Puppeteer](https://filipvitas.medium.com/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)
+* Library of [research papers and presentations for counter-detection and web privacy](https://github.com/prescience-data/dark-knowledge)
 
 # Antidetection ideas
 
