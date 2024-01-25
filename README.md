@@ -21,8 +21,8 @@ Just making a tools list for my project, feel free to send pull requests :)
 https://antbrowser.pro/ - too many lies detected by CreepJS
 [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
 [GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
-
-
+  
+https://cpa.rip/stati/antidetect-palivo/  
   
 # Detection tests
 
