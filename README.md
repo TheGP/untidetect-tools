@@ -90,8 +90,8 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 
 # Antidetection ideas
 
-Browser - use [separately downloaded](https://incolumitas.com/2021/05/20/avoid-puppeteer-and-playwright-for-scraping/) version of Chrome instead of Chromium, and pass it in executablePath in Puppeteer.  
-* Screen width/height + Window height/width  - can be emulated by attaching a debugger via Chrome extension, but screen.availHeight and width will be wrong. So, it is better to change screen size on a virtual machine or use an anti-detect browser.  
+Browser - use [separately downloaded](https://incolumitas.com/2021/05/20/avoid-puppeteer-and-playwright-for-scraping/) version of Chrome instead of Chromium, and pass it in `executablePath` in Puppeteer.  
+* Screen width/height + Window height/width  - can be emulated by attaching a debugger via Chrome extension, but `screen.availHeight` and width will be wrong. So, it is better to change screen size on a virtual machine or use an anti-detect browser.  
 * Disable WebRTC when using proxies/mask public IP: https://github.com/puppeteer/puppeteer/issues/6377  
 * Match all proper browser headers in the same order
 * Autocontext api https://habr.com/ru/companies/globalsign/articles/475586/ https://fb-killa.pro/threads/povyshaem-svoju-anonimnost-putem-kontrolja-nad-audiocontext-fingerprint.2759/#post-19349
