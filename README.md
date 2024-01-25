@@ -16,20 +16,20 @@ Just making a tools list for my project, feel free to send pull requests :)
 * [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users  
 * [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100  
 * [OctoBrowser](https://octobrowser.net/)  
-* [ixBrowser](https://ixbrowser.com/en)  
+* [ixBrowser](https://ixbrowser.com/en) - free, core is a bit old but they say because too little changes they didn't update yet (and its not detected as old)
 
 * [antbrowser](https://antbrowser.pro) - too many lies detected by CreepJS
 * [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
 * [GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
   
-https://cpa.rip/stati/antidetect-palivo/ - a bit old article of how anti-detect browsers can be detected
+https://cpa.rip/stati/antidetect-palivo/ - a bit old article on how anti-detect browsers can be detected
   
 # Detection tests
 
 * [Creep JS](https://abrahamjuliot.github.io/creepjs/) - the most advanced detector  
 * [Pixelscan](https://pixelscan.net/) - simple fingerprint checker  
 * [Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha  
-* [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you protected from fingerprinting  
+* [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you are protected from fingerprinting  
 * [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
 * [AmIUnique Fingerprint](https://amiunique.org/fingerprint) - see your fingerprint  
 * [Sannysoft Fingerprint](https://bot..com/) - check your fingerprint  
