@@ -39,7 +39,7 @@ https://cpa.rip/stati/antidetect-palivo/ - a bit old article on how anti-detect 
 * [Extension-detector](https://z0ccc.github.io/extension-detector/)
 * [Audio fingerprint](https://audiofingerprint.openwpm.com/)
   
-More tools can be found: https://github.com/kkoooqq/fakebrowser  
+More tools can be found: at https://github.com/kkoooqq/fakebrowser  
 
 # Anti-detect libs
 
@@ -71,7 +71,7 @@ For Selenium/Python:
 * [SmsActivate](https://sms-activate.org/?ref=8536388)
 * [OnlineSim](https://onlinesim.io/?bref=880810)
 * [VakSms](vak-sms.com/3b4308f6-b7ff-4085-a095-5e63f650fa7f)
-* [SmsHub](https://smshub.org/) - looks like the cheapest but has a lot of low-quality numbers(at least Thailand), sometimes specifying an operator helps
+* [SmsHub](https://smshub.org/) - looks like the cheapest but has a lot of low-quality numbers(at least in Thailand), sometimes specifying an operator helps
 * [GrizzlySms](https://1grizzlysms.com/registration?r=539140)
 
 # Other
@@ -81,7 +81,7 @@ Article [How to bypass “slider CAPTCHA” with JS and Puppeteer](https://filip
 # Antidetection ideas
 
 Browser - use [separately downloaded](https://incolumitas.com/2021/05/20/avoid-puppeteer-and-playwright-for-scraping/) version of Chrome instead of Chromium, and pass it in executablePath in Puppeteer.  
-* Screen width/height + Window height/width  - can be emulated by attaching a debugger via Chrome extension, but screen.availHeight and width will be wrong. So, it is better to change screen size on a  virtual machine.  
+* Screen width/height + Window height/width  - can be emulated by attaching a debugger via Chrome extension, but screen.availHeight and width will be wrong. So, it is better to change screen size on a virtual machine or use an anti-detect browser.  
 * Disable WebRTC when using proxies/mask public IP: https://github.com/puppeteer/puppeteer/issues/6377  
 * Match all proper browser headers in the same order
 * Autocontext api https://habr.com/ru/companies/globalsign/articles/475586/ https://fb-killa.pro/threads/povyshaem-svoju-anonimnost-putem-kontrolja-nad-audiocontext-fingerprint.2759/#post-19349
