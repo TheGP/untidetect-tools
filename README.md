@@ -53,13 +53,13 @@ For Selenium/Python:
 * [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)  
 
 Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference/api/i18n#concepts_and_usage):
-* --profile-directory=${dir_name} // should be together with `userDataDir`
-* --accept-lang=en,en-US, // th,en,en-GB,en-US works only on new profile dirs
-* --user-agent=${user_agent} // properly changes user-agent in headers and JS runtime
-* --disable-extensions-except=${process.env.EXTENSION_PATH}
-* --load-extension=${process.env.EXTENSION_PATH}
-* --aggressive-cache-discard // useful in case u want more time for a debugger to attach or an extension to modify something
-* --disable-gpu // less detectable canvas fingerprint, but GPU vendor/renderer still will be present
+* `--profile-directory=${dir_name}` // should be together with `userDataDir`
+* `--accept-lang=en,en-US,` // th,en,en-GB,en-US works only on new profile dirs
+* `--user-agent=${user_agent}` // properly changes user-agent in headers and JS runtime
+* `--disable-extensions-except=${EXTENSION_PATH}`
+* `--load-extension=${EXTENSION_PATH}`
+* `--aggressive-cache-discard` // useful in case u want more time for a debugger to attach or an extension to modify something
+* `--disable-gpu` // less detectable canvas fingerprint, but GPU vendor/renderer still will be present
 
 # Humanizing
 
