@@ -88,6 +88,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * Article [How to bypass “slider CAPTCHA” with JS and Puppeteer](https://filipvitas.medium.com/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)
 * Library of [research papers and presentations for counter-detection and web privacy](https://github.com/prescience-data/dark-knowledge)
 * CPU fingerprinting gives a model of the CPU with [60% accuracy](https://github.com/CISPA/browser-cpu-fingerprinting)
+* [How to bypass PerimeterX](https://www.reddit.com/r/webscraping/comments/1ac34ob/how_to_bypass_perimeterx/kjrxv8n/)
 
 # Antidetection ideas
 
