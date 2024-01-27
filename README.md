@@ -66,7 +66,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [Fake-browser](https://github.com/kkoooqq/fakebrowser) Based on Puppeteer, with human-like interactions  
 * [Bezier mouse movements](https://github.com/Pomax/bezierjs)  
 * [Definitely-not-a-robot](https://github.com/dougwithseismic/npm-definitely-not-a-robot)  
-* [Puppeteer-Humanize](https://www.npmjs.com/package/@forad/puppeteer-humanize)  
+* [Puppeteer-Humanize](https://github.com/nicoandmee/puppeteer-humanize)  
 * [Ghost-Cursor](https://github.com/Xetera/ghost-cursor) - generate realistic, human-like mouse movement data between coordinates
 
 # Captha solvers
