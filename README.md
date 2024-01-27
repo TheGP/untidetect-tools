@@ -33,7 +33,7 @@ https://cpa.rip/stati/antidetect-palivo/ - a bit old article on how anti-detect 
 * [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you are protected from fingerprinting  
 * [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
 * [AmIUnique Fingerprint](https://amiunique.org/fingerprint) - see your fingerprint  
-* [Sannysoft Fingerprint](https://bot..com/) - check your fingerprint  
+* [Sannysoft Fingerprint](https://bot.sannysoft.com/) - check your fingerprint  
 * [BrowserLeaks](https://browserleaks.com/)  
 * [F.vision](http://f.vision/)  
 * [Extension-detector](https://z0ccc.github.io/extension-detector/)
