@@ -89,6 +89,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * Library of [research papers and presentations for counter-detection and web privacy](https://github.com/prescience-data/dark-knowledge)
 * CPU fingerprinting gives a model of the CPU with [60% accuracy](https://github.com/CISPA/browser-cpu-fingerprinting)
 * [How to bypass PerimeterX](https://www.reddit.com/r/webscraping/comments/1ac34ob/how_to_bypass_perimeterx/kjrxv8n/)
+* Article [BotOrNot](https://incolumitas.com/pages/BotOrNot/)
 
 # Antidetection ideas
 
