@@ -38,6 +38,7 @@ https://cpa.rip/stati/antidetect-palivo/ - a bit old article on how anti-detect 
 * [F.vision](http://f.vision/)  
 * [Extension-detector](https://z0ccc.github.io/extension-detector/)
 * [Audio fingerprint](https://audiofingerprint.openwpm.com/)
+* [Behavioral Bot Classification](https://bot.incolumitas.com/)
   
 More tools can be found: at https://github.com/kkoooqq/fakebrowser  
 
