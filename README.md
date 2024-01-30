@@ -17,13 +17,13 @@ While you are looking around, it may be a good idea to sign up on all the Discor
 * [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users  
 * [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100  
 * [OctoBrowser](https://octobrowser.net/)  
-* [ixBrowser](https://ixbrowser.com/en) - free, core is a bit old but they say because of too few changes they didn't update yet (and it is not detected as old)
-
-* [antbrowser](https://antbrowser.pro) - too many lies detected by CreepJS
+* [ixBrowser](https://ixbrowser.com/en) - free, core is a bit old but they say because of too few changes they didn't update yet (and it is not detected as old), API by request.
+Useless:
+* [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
 * [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
 * [GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
   
-https://cpa.rip/stati/antidetect-palivo/ - a bit old article on how anti-detect browsers can be detected
+A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/stati/antidetect-palivo/). Example from the article: `if( Object.getOwnPropertyNames(navigator)[0] ) alert('fake parameters detected');`
   
 # Detection tests
 
@@ -39,6 +39,7 @@ https://cpa.rip/stati/antidetect-palivo/ - a bit old article on how anti-detect 
 * [Extension-detector](https://z0ccc.github.io/extension-detector/)
 * [Audio fingerprint](https://audiofingerprint.openwpm.com/)
 * [Behavioral Bot Classification](https://bot.incolumitas.com/)
+* [My own tool](https://reviewer.eugenebos.com/test) - the only benefit the code is plain, so you can find very easily how everything is tested.
   
 More tools can be found: at https://github.com/kkoooqq/fakebrowser  
 
