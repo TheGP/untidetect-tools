@@ -75,7 +75,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [2captcha](https://2captcha.com/?from=21664443) - human, ready to use libs
 * [Capsolver](https://dashboard.capsolver.com/passport/register?inviteCode=U2gREjbK6qnY) - AI
 * [NopeCha](https://nopecha.com/) - AI
-* [CaptchaAI](https://captchaai.com/) - AI, fixed price
+* [CaptchaAI](https://captchaai.com/?from=175374) - AI, fixed price
 * [CapMonster](https://capmonster.cloud/) - AI
 
 # SMS confirmations
