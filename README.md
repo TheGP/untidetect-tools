@@ -100,3 +100,15 @@ Browser - use [separately downloaded](https://incolumitas.com/2021/05/20/avoid-p
 * Disable WebRTC when using proxies/mask public IP: https://github.com/puppeteer/puppeteer/issues/6377  
 * Match all proper browser headers in the same order
 * Autocontext api https://habr.com/ru/companies/globalsign/articles/475586/ https://fb-killa.pro/threads/povyshaem-svoju-anonimnost-putem-kontrolja-nad-audiocontext-fingerprint.2759/#post-19349
+
+# What is available in a JS worker:
+Worker is another sneaky way to detect real browser data, as you can't modify object properties in it with some extension.
+`window`, `screen`, and access to DOM are not available (and therefor canvas)
+
+* Timezone ( `Intl.DateTimeFormat().resolvedOptions().timeZone` )
+* Language ( `navigator.language || navigator.userLanguage` )
+* User agent ( `navigator.userAgent` )
+* Hardware Concurrency ( `navigator.hardwareConcurrency` )
+* [GPU data](https://developer.mozilla.org/en-US/docs/Web/API/WorkerNavigator/gpu) (except Linux & Firefox upd 30.01.2024)
+
+
