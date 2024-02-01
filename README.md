@@ -3,7 +3,7 @@ Just making a tools list for my project, feel free to send pull requests :)
 While you are looking around, it may be a good idea to sign up on all the Discord channels each product has can find some interesting insides from users.
 
 # Anti-detect browsers
-* [Multilogin](https://multilogin.com/) - starts from €74 for 100 profiles  
+* [Multilogin](https://multilogin.com/#a_aid=secretbonus3) - starts from €74 for 100 profiles  
 * [Incogniton](https://incogniton.com/aff/620515/) - 10 free, $29.99/Month for 50  
 * [Octo Browser](https://octobrowser.net) - starts from €21 for 10  
 * [Kameleo](https://kameleo.io/) - starts €59/user with unlimited profiles  
