@@ -17,11 +17,12 @@ While you are looking around, it may be a good idea to sign up on all the Discor
 * [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited  
 * [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio  
 * [OctoBrowser](https://octobrowser.net/) - €21 for 10 profiles
-* [ixBrowser](https://ixbrowser.com/en) - free, core is a bit old but they say because of too few changes they didn't update yet (and it is not detected as old), API by request.
+* [ixBrowser](https://ixbrowser.com/en) - free, core is a bit old but they say because of too few changes they didn't update yet (and it is not detected as old), API by request.  
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
 * [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
 * [GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
+* [MarketerBrowser](https://www.marketerbrowser.com/) - can't even switch user-agent without detection
   
 A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/stati/antidetect-palivo/). Example from the article: `if( Object.getOwnPropertyNames(navigator)[0] ) alert('fake parameters detected');`
   
