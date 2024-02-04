@@ -3,20 +3,20 @@ Just making a tools list for my project, feel free to send pull requests :)
 While you are looking around, it may be a good idea to sign up on all the Discord channels each product has can find some interesting insides from users.
 
 # Anti-detect browsers
+* [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs" (API + driver automation)
 * [Multilogin](https://multilogin.com/#a_aid=secretbonus3) - starts from €74 for 100 profiles  
 * [Incogniton](https://incogniton.com/aff/620515/) - 10 free, $29.99/Month for 50  
 * [Octo Browser](https://octobrowser.net) - starts from €21 for 10  
-* [Kameleo](https://kameleo.io/) - starts €59/user with unlimited profiles  
 * [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - $24 for 100 profiles, no unlimited plan, free proxies  
 * [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan  
+* [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users  
+* [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100  
+* [Kameleo](https://kameleo.io/) - starts €59/user with unlimited profiles  
 * [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
 * [Indigo](https://www.goindigo.in/) - €99 for 100 profiles  
 * [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited  
-* [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs"  (API + driver automation)
 * [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio  
-* [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users  
-* [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100  
-* [OctoBrowser](https://octobrowser.net/)  
+* [OctoBrowser](https://octobrowser.net/) - €21 for 10 profiles
 * [ixBrowser](https://ixbrowser.com/en) - free, core is a bit old but they say because of too few changes they didn't update yet (and it is not detected as old), API by request.
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
@@ -81,7 +81,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 # SMS confirmations
 * [SmsActivate](https://sms-activate.org/?ref=8536388)
 * [OnlineSim](https://onlinesim.io/?bref=880810)
-* [VakSms](vak-sms.com/3b4308f6-b7ff-4085-a095-5e63f650fa7f)
+* [VakSms](https://vak-sms.com/3b4308f6-b7ff-4085-a095-5e63f650fa7f)
 * [SmsHub](https://smshub.org/) - looks like the cheapest but has a lot of low-quality numbers(at least in Thailand), sometimes specifying an operator helps
 * [GrizzlySms](https://1grizzlysms.com/registration?r=539140)
 
