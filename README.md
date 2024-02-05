@@ -73,11 +73,15 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [Ghost-Cursor](https://github.com/Xetera/ghost-cursor) - generate realistic, human-like mouse movement data between coordinates
 
 # Captha solvers
-* [2captcha](https://2captcha.com/?from=21664443) - human, ready to use libs
-* [Capsolver](https://dashboard.capsolver.com/passport/register?inviteCode=U2gREjbK6qnY) - AI
-* [NopeCha](https://nopecha.com/) - AI
-* [CaptchaAI](https://captchaai.com/?from=175374) - AI, fixed price
-* [CapMonster](https://capmonster.cloud/) - AI
+As each service differs with different captchas support, I took the most popular one: reCaptcha v2 1000 captchas to compare the price:
+* [2captcha](https://2captcha.com/?from=21664443) - human, ready-to-use libs. $1-2.99
+* [Capsolver](https://dashboard.capsolver.com/passport/register?inviteCode=U2gREjbK6qnY) - AI. $0.8
+* [CaptchaAI](https://captchaai.com/?from=175374) - AI, fixed price from $13.5/month for 5 captcha treads.
+* [CapMonster](https://capmonster.cloud/) - AI. $0.6
+* [SolveCaptcha](https://solvecaptcha.com?from=434017) - human. Many ready-to-use libs. $1
+* [CapGuru](https://cap.guru/en/regen/?ref=144789) - unsure. Same API as Rucaptcha. $0.55
+* [NopeCha](https://nopecha.com/) - AI. Starts from $5/month for 2k captchas/day.
+* [MetaBypass](https://metabypass.tech/) - AI. Libs: Go, PHP, Python. $3
 
 # SMS confirmations
 * [SmsActivate](https://sms-activate.org/?ref=8536388)
