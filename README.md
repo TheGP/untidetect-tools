@@ -74,7 +74,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 
 # Captha solvers
 As each service differs with different captchas support, I took the most popular one: reCaptcha v2 1000 captchas to compare the price:
-* [2captcha](https://2captcha.com/?from=21664443) - human, ready-to-use libs. $1-2.99
+* [2captcha](https://2captcha.com/?from=21664443) - human. Libs: JS, GO, PHP, Python, Ruby, C#, Java. $1-2.99
 * [Capsolver](https://dashboard.capsolver.com/passport/register?inviteCode=U2gREjbK6qnY) - AI. $0.8
 * [CaptchaAI](https://captchaai.com/?from=175374) - AI, fixed price from $13.5/month for 5 captcha treads.
 * [CapMonster](https://capmonster.cloud/) - AI. $0.6
