@@ -90,6 +90,13 @@ As each service differs with different captchas support, I took the most popular
 * [SmsHub](https://smshub.org/) - looks like the cheapest but has a lot of low-quality numbers(at least in Thailand), sometimes specifying an operator helps
 * [GrizzlySms](https://1grizzlysms.com/registration?r=539140)
 
+# Residential proxies
+* [Piaproxy](https://account.piaproxy.com/register?invitation_code=9SOOQJZT)
+* [Soax](https://soax.com?afmc=9e) - starts at $6.6/GB and less
+* [IPRoyal](https://iproyal.com/?r=381340) - starts at around 5.25/GB for 10GB, less too expensive
+* [DataImpulse](https://dataimpulse.com/) - from $1/GB
+* [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) - $3/GB (up to 60 min), $0.22/IP, $5/30 days
+
 # Other
 
 * [Script to collect visitors' fingerprints](https://github.com/kkoooqq/fakebrowser/blob/main/script/dumpDD.js) on your website.
