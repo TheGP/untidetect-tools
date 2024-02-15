@@ -96,6 +96,7 @@ As each service differs with different captchas support, I took the most popular
 * [IPRoyal](https://iproyal.com/?r=381340) - starts at around 5.25/GB for 10GB, less too expensive
 * [DataImpulse](https://dataimpulse.com/) - from $1/GB
 * [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) - $3/GB (up to 60 min), $0.22/IP, $5/30 days
+* [BrightData](https://get.brightdata.com/jdpda3d3pu8n) - around $8/GB
 
 # Other
 
