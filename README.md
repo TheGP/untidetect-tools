@@ -49,7 +49,7 @@ More tools can be found: at https://github.com/kkoooqq/fakebrowser
 # Anti-detect libs
 
 For Puppeteer:  
-* [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer) - hides exposed API of Puppeteer, so it becomes undetected by CreepJS  
+* [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer)
 * [Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) - trash, as easily detected by CreepJS  
 * [Fingerprints from Bablosoft](http://fingerprints.bablosoft.com/) - free and paid fingerprints to use  
 * [Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data  
