@@ -82,6 +82,7 @@ As each service differs with different captchas support, I took the most popular
 * [CapGuru](https://cap.guru/en/regen/?ref=144789) - unsure. Same API as Rucaptcha. $0.55
 * [NopeCha](https://nopecha.com/) - AI. Starts from $5/month for 2k captchas/day.
 * [MetaBypass](https://metabypass.tech/) - AI. Libs: Go, PHP, Python. $3
+* [EzCaptcha](https://dashboard.ez-captcha.com/#/register?inviteCode=oewYJRREtMU) - AI.	$0.6
 
 # SMS confirmations
 * [SmsActivate](https://sms-activate.org/?ref=8536388)
