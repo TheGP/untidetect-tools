@@ -49,6 +49,7 @@ More tools can be found: at https://github.com/kkoooqq/fakebrowser
 # Anti-detect libs
 
 For Puppeteer:  
+* [Imposter](https://github.com/TheGP/Imposter) - my package that emulates human actions on the page, currently in development, join me :)
 * [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer)
 * [Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) - trash, as easily detected by CreepJS  
 * [Fingerprints from Bablosoft](http://fingerprints.bablosoft.com/) - free and paid fingerprints to use  
