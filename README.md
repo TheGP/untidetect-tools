@@ -48,6 +48,8 @@ More tools can be found: at https://github.com/kkoooqq/fakebrowser
 
 # Anti-detect libs
 
+[Privacy Manager](https://www.ivanovation.ro/modules/) - 12 modules to change fingerprint of your computer.
+
 For Puppeteer:  
 * [Imposter](https://github.com/TheGP/Imposter) - my package that emulates human actions on the page, currently in development, join me :)
 * [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer)
