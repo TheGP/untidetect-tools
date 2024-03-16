@@ -101,6 +101,7 @@ As each service differs with different captchas support, I took the most popular
 * [DataImpulse](https://dataimpulse.com/?aff=10601) - from $1/GB (has $5/5Gb welcome package, but normally from $50). IMAP/SMTP blocked.
 * [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) - $6/Gb (from 4.5), cheap status: from $6/month per 20. IMAP/SMTP works.
 * [GeoNode](https://geonode.com/) - $4/Gb (from $1.7)
+* [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) - $3/Gb (from $0.8), has static too ($3/week, $5/month)
 * [Piaproxy](https://account.piaproxy.com/register?invitation_code=9SOOQJZT)
 * [Soax](https://soax.com?afmc=9e) - starts at $6.6/GB and less
 * [IPRoyal](https://iproyal.com/?r=381340) - starts at around 5.25/GB for 10GB, less too expensive
