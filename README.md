@@ -90,6 +90,7 @@ As each service differs with different captchas support, I took the most popular
 * [MetaBypass](https://metabypass.tech/) - AI. Libs: Go, PHP, Python. $3
 * [EzCaptcha](https://dashboard.ez-captcha.com/#/register?inviteCode=oewYJRREtMU) - AI.	$0.6
 * [AntiCaptcha](http://getcaptchasolution.com/gy01xuqodw) - $0.95, AI
+* [HardCaptcha](https://hardcaptcha.com/signup?rc=WOHWELMAWC) - start from $79/month, AI.
 
 # SMS confirmations
 * [SmsActivate](https://sms-activate.org/?ref=8536388)
