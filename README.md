@@ -21,6 +21,7 @@ Important: if you work on something related to undetection, like humanizing pupp
 * [OctoBrowser](https://octobrowser.net/) - €21 for 10 profiles
 * [ixBrowser](https://ixbrowser.com/en) - free, but doesn't mask everything, for example, no GPU masking, API by request.
 * [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - so far couldn't start, but maybe only mine problem lol
+* [Gpmlogin](https://gpmloginapp.com/en) - didn't check it yet, pricing is for unlimited use, for 1pc it is $125
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
 * [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
@@ -44,6 +45,10 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
 * [Audio fingerprint](https://audiofingerprint.openwpm.com/)
 * [Behavioral Bot Classification](https://bot.incolumitas.com/)
 * [My own tool](https://reviewer.eugenebos.com/test) - the only benefit the code is plain, so you can find very easily how everything is tested.
+
+Others:
+* [BrowserScan](https://www.browserscan.net/en)
+* [Iphey](https://iphey.com/)
   
 More tools can be found: at https://github.com/kkoooqq/fakebrowser  
 
