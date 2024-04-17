@@ -51,6 +51,7 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
 Others:
 * [BrowserScan](https://www.browserscan.net/en)
 * [Iphey](https://iphey.com/)
+* [Canvas inspector](https://data.bablosoft.com/canvas-inspector-3/distr/CanvasInspectorInstall.exe)
   
 More tools can be found: at https://github.com/kkoooqq/fakebrowser  
 
