@@ -5,10 +5,10 @@ While you are looking around, it may be a good idea to sign up on all the Discor
 Important: if you work on something related to undetection, like humanizing puppeteer actions, we may consider collaboration as I'm working currently on it too. My [TG](https://t.me/eugenebos).
 
 # Anti-detect browsers
+* [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 1000 profiles opened / day free, $299 unlimited, quite new on the market.
 * [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs", 1 additional config $1 (API + driver automation)
 * [Multilogin](https://multilogin.com/#a_aid=secretbonus3) - starts from €74 for 100 profiles  
 * [Incogniton](https://incogniton.com/aff/620515/) - 10 free, $29.99/Month for 50
-* [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 5 profiles opened / day free, 100 - $19, 500 - $59, 3000 - $199 (I guess currently you need to contact them to purchase it)
 * [Octo Browser](https://octobrowser.net) - starts from €21 for 10  
 * [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - $24 for 100 profiles, no unlimited plan, free proxies  
 * [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan  
@@ -18,7 +18,7 @@ Important: if you work on something related to undetection, like humanizing pupp
 * [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
 * [Indigo](https://www.goindigo.in/) - €99 for 100 profiles  
 * [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited  
-* [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio  
+* [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio, for Puppeteer look at [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints), the only browser as I know that supports faking canvas (with [PerfectCanvas](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) 
 * [OctoBrowser](https://octobrowser.net/) - €21 for 10 profiles
 * [ixBrowser](https://ixbrowser.com/en) - free, but doesn't mask everything, for example, no GPU masking, API by request
 * [Gpmlogin](https://gpmloginapp.com/en) - didn't check it yet, pricing is for unlimited use, for 1pc it is $125
