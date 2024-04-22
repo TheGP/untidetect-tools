@@ -75,6 +75,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * `--user-agent=${user_agent}` // properly changes user-agent in headers and JS runtime
 * `--disable-extensions-except=${EXTENSION_PATH}`
 * `--load-extension=${EXTENSION_PATH}`
+* `--disable-site-isolation-trials` helps to detect all iframes on the page for Puppeteer, without it frames from another domain will be inaccessible
 * `--aggressive-cache-discard` // useful in case u want more time for a debugger to attach or an extension to modify something
 * `--disable-gpu` // less detectable canvas fingerprint, but GPU vendor/renderer still will be present
 
