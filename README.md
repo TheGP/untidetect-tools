@@ -67,7 +67,14 @@ For Puppeteer:
 * [Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data  
   
 For Selenium/Python:  
-* [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)  
+* [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+
+For request libs:
+* [Curl-impersonate](https://github.com/lwthiker/curl-impersonate)
+* [For GO](https://github.com/wangluozhe/requests)
+* [CycleTLS for NodeJS/GO](https://github.com/Danny-Dasilva/CycleTLS)
+* [curl_cffi for Python](https://github.com/yifeikong/curl_cffi)
+* [Got-Scraping for NodeJS](https://github.com/apify/got-scraping)
 
 Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference/api/i18n#concepts_and_usage):
 * `--profile-directory=${dir_name}` // should be together with `userDataDir`
@@ -128,6 +135,7 @@ As each service differs with different captchas support, I took the most popular
 * CPU fingerprinting gives a model of the CPU with [60% accuracy](https://github.com/CISPA/browser-cpu-fingerprinting)
 * [How to bypass PerimeterX](https://www.reddit.com/r/webscraping/comments/1ac34ob/how_to_bypass_perimeterx/kjrxv8n/)
 * Article [BotOrNot](https://incolumitas.com/pages/BotOrNot/)
+* Your [request fingerprint](https://tls.peet.ws/api/all)
 
 # Antidetection ideas
 
