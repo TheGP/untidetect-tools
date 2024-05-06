@@ -46,6 +46,7 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
 * [Extension-detector](https://z0ccc.github.io/extension-detector/)
 * [Audio fingerprint](https://audiofingerprint.openwpm.com/)
 * [Behavioral Bot Classification](https://bot.incolumitas.com/)
+* [Canvas Tampering Detection](https://kkapsner.github.io/CanvasBlocker/test/detectionTest.html)
 * [My own tool](https://reviewer.eugenebos.com/test) - the only benefit the code is plain, so you can find very easily how everything is tested.
 
 Others:
