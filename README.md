@@ -1,7 +1,11 @@
 # Curated anti-detect tools list  
 Just making a tools list for my project, feel free to send pull requests :) 
-While you are looking around, it may be a good idea to sign up on all the Discord channels each product has can find some interesting insides from users.
-   
+While looking around, it may be a good idea to sign up on all the Discord channels each product has to find some interesting insides from users.
+
+[![Nst browser](https://raw.githubusercontent.com/TheGP/untidetect-tools/main/nstbrowser.png)](https://www.nstbrowser.io/?utm_source=untidetect-tools&utm_medium=banner_github&utm_campaign=github)
+
+
+
 Important: if you work on something related to undetection, like humanizing puppeteer actions, we may consider collaboration as I'm working currently on it too. My [TG](https://t.me/eugenebos).
 
 # Anti-detect browsers
