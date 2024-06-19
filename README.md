@@ -22,7 +22,7 @@ Important: if you work on something related to undetection, like humanizing pupp
 * [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
 * [Indigo](https://www.goindigo.in/) - €99 for 100 profiles  
 * [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited  
-* [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio, for Puppeteer look at [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints), the only browser as I know that supports faking canvas (with [PerfectCanvas](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) 
+* [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio, for Puppeteer look at [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints), the only browser as I know that supports faking canvas (with [PerfectCanvas](https://wiki.bablosoft.com/doku.php?id=perfectcanvas). If you need a code for your website to generate own canvases I can sell you it. Then you can add it to your fingerprints (Their PerfectCanvas is very slow and you can get only 30-40 per day, otherwise will need to buy CustomServer).
 * [OctoBrowser](https://octobrowser.net/) - €21 for 10 profiles
 * [ixBrowser](https://ixbrowser.com/en) - free, but doesn't mask everything, for example, no GPU masking, API by request
 * [Gpmlogin](https://gpmloginapp.com/en) - didn't check it yet, pricing is for unlimited use, for 1pc it is $125
