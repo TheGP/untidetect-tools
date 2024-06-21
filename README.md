@@ -114,7 +114,7 @@ As each service differs with different captchas support, I took the most popular
 * [HardCaptcha](https://hardcaptcha.com/signup?rc=WOHWELMAWC) - start from $79/month, AI.
 
 # SMS confirmations
-* [SmsActivate](https://sms-activate.org/?ref=8536388)
+* [SmsActivate](https://sms-activate.io/?ref=8536388)
 * [OnlineSim](https://onlinesim.io/?bref=880810)
 * [VakSms](https://vak-sms.com/3b4308f6-b7ff-4085-a095-5e63f650fa7f)
 * [SmsHub](https://smshub.org/) - looks like the cheapest but has a lot of low-quality numbers(at least in Thailand), sometimes specifying an operator helps
