@@ -51,6 +51,7 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
 * [Audio fingerprint](https://audiofingerprint.openwpm.com/)
 * [Behavioral Bot Classification](https://bot.incolumitas.com/)
 * [Canvas Tampering Detection](https://kkapsner.github.io/CanvasBlocker/test/detectionTest.html)
+* [ProxyDetect](https://proxy.incolumitas.com/proxy_detect.html) - detection of proxy/vpn
 * [My own tool](https://reviewer.eugenebos.com/test) - the only benefit the code is plain, so you can find very easily how everything is tested.
 
 Others:
