@@ -101,19 +101,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [Ghost-Cursor](https://github.com/Xetera/ghost-cursor) - generate realistic, human-like mouse movement data between coordinates
 
 # Captha solvers
-As each service differs with different captchas support, I took the most popular one: reCaptcha v2 1000 captchas to compare the price:
 * [List of everything related to Captchas](https://github.com/TheGP/Everything-About-Captchas/)
-* [Capsolver](https://dashboard.capsolver.com/passport/register?inviteCode=U2gREjbK6qnY) - AI. $0.8. Supports Outlook & Arksose captchas.
-* [2captcha](https://2captcha.com/?from=21664443) - human. Libs: JS, GO, PHP, Python, Ruby, C#, Java. $1-2.99 (doesn't work for Outlook)
-* [CaptchaAI](https://captchaai.com/?from=175374) - AI, fixed price from $13.5/month for 5 captcha treads.
-* [CapMonster](https://capmonster.cloud/) - AI. $0.6
-* [SolveCaptcha](https://solvecaptcha.com?from=434017) - human. Many ready-to-use libs. $1
-* [CapGuru](https://cap.guru/en/regen/?ref=144789) - unsure. Same API as Rucaptcha. $0.55
-* [NopeCha](https://nopecha.com/) - AI. Starts from $5/month for 2k captchas/day.
-* [MetaBypass](https://metabypass.tech/) - AI. Libs: Go, PHP, Python. $3
-* [EzCaptcha](https://dashboard.ez-captcha.com/#/register?inviteCode=oewYJRREtMU) - AI.	$0.6
-* [AntiCaptcha](http://getcaptchasolution.com/gy01xuqodw) - $0.95, AI
-* [HardCaptcha](https://hardcaptcha.com/signup?rc=WOHWELMAWC) - start from $79/month, AI.
 
 # SMS confirmations
 * [SmsActivate](https://sms-activate.io/?ref=8536388)
