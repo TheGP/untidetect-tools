@@ -104,12 +104,14 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [List of everything related to Captchas](https://github.com/TheGP/Everything-About-Captchas/)
 
 # SMS confirmations
-* [SmsActivate](https://sms-activate.io/?ref=8536388)
-* [OnlineSim](https://onlinesim.io/?bref=880810)
-* [VakSms](https://vak-sms.com/3b4308f6-b7ff-4085-a095-5e63f650fa7f)
+* [SmsActivate](https://sms-activate.io/?ref=8536388) - min top up ~$2.5, high commissions
+* [VakSms](https://vak-sms.com/3b4308f6-b7ff-4085-a095-5e63f650fa7f) - not every country is available
 * [SmsHub](https://smshub.org/) - looks like the cheapest but has a lot of low-quality numbers(at least in Thailand), sometimes specifying an operator helps
 * [GrizzlySms](https://1grizzlysms.com/registration?r=539140)
-* [5Sim](https://5sim.net/)
+* [5Sim](https://5sim.net/) - expensive for some countries but has activation rate data available (Thailand for example)
+* [OnlineSim](https://onlinesim.io/?bref=880810) - very expensive
+* [SmsBower](https://smsbower.com/registration?ref=110541) - min top up $2.86, low commission
+* [365sms](https://365sms.vip/?ref=626004) - top up from $1
 
 # Residential proxies
 * [List of mobile proxies](https://github.com/TheGP/4g-proxies-providers)
