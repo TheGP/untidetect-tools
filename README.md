@@ -39,14 +39,14 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
 # Detection tests
 
 * [Creep JS](https://abrahamjuliot.github.io/creepjs/) - the most advanced detector  
-* [Pixelscan](https://pixelscan.net/) - simple fingerprint checker  
+* [Pixelscan](https://pixelscan.net/) - simple fingerprint checker
+* [F.vision](https://fv.pro/check-privacy/general) - old f.vision
 * [Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha  
 * [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you are protected from fingerprinting  
 * [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
 * [AmIUnique Fingerprint](https://amiunique.org/fingerprint) - see your fingerprint  
 * [Sannysoft Fingerprint](https://bot.sannysoft.com/) - check your fingerprint  
 * [BrowserLeaks](https://browserleaks.com/)  
-* [F.vision](http://f.vision/)  
 * [Extension-detector](https://z0ccc.github.io/extension-detector/)
 * [Audio fingerprint](https://audiofingerprint.openwpm.com/)
 * [Behavioral Bot Classification](https://bot.incolumitas.com/)
