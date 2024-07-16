@@ -2,7 +2,7 @@
 Just making a tools list for my project, feel free to send pull requests :) 
 While looking around, it may be a good idea to sign up on all the Discord channels each product has to find some interesting insides from users.
 
-[![Nst browser](https://raw.githubusercontent.com/TheGP/untidetect-tools/main/nstbrowser.png)](https://www.nstbrowser.io/?utm_source=untidetect-tools&utm_medium=banner_github&utm_campaign=github)
+[![Nst browser](https://raw.githubusercontent.com/TheGP/untidetect-tools/main/nstbrowser.png)](bit.ly/nstbrowser)
 
 
 
