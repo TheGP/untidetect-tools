@@ -41,7 +41,7 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
 * [Creep JS](https://abrahamjuliot.github.io/creepjs/) - the most advanced detector  
 * [Pixelscan](https://pixelscan.net/) - simple fingerprint checker
 * [F.vision](https://fv.pro/check-privacy/general) - old f.vision
-* [Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha  
+* [NikolaiT/zardaxt](https://github.com/NikolaiT/zardaxt) - Passive TCP/IP fingerprinting (look for Live demo link)
 * [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you are protected from fingerprinting  
 * [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
 * [AmIUnique Fingerprint](https://amiunique.org/fingerprint) - see your fingerprint  
@@ -59,8 +59,9 @@ Others:
 * [BrowserScan](https://www.browserscan.net/en)
 * [Iphey](https://iphey.com/)
 * [Canvas inspector](https://data.bablosoft.com/canvas-inspector-3/distr/CanvasInspectorInstall.exe)
-* [ipQualityScore](https://www.ipqualityscore.com/) - API for checking your IP reputation and other stuff
-* [FingerBank](https://fingerbank.org/) - API for checking TCP fingerprints
+* [ipQualityScore](https://www.ipqualityscore.com/) - API for checking your IP reputation and other stuff. But it is dogshit, as I can't register there from real devices, it says Im using VPN/proxy. Maybe only for USA.
+* [FingerBank](https://fingerbank.org/) - API for checking TCP fingerprints by signature
+* [Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha  
   
 More tools can be found: at https://github.com/kkoooqq/fakebrowser  
 
