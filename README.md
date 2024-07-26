@@ -59,6 +59,8 @@ Others:
 * [BrowserScan](https://www.browserscan.net/en)
 * [Iphey](https://iphey.com/)
 * [Canvas inspector](https://data.bablosoft.com/canvas-inspector-3/distr/CanvasInspectorInstall.exe)
+* [ipQualityScore](https://www.ipqualityscore.com/) - API for checking your IP reputation and other stuff
+* [FingerBank](https://fingerbank.org/) - API for checking TCP fingerprints
   
 More tools can be found: at https://github.com/kkoooqq/fakebrowser  
 
