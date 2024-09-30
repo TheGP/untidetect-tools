@@ -52,6 +52,7 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
 * [ProxyDetect](https://proxy.incolumitas.com/proxy_detect.html) - detection of proxy/vpn
 * [WebbrowserTools](https://webbrowsertools.com/) - many tools to check fingerprint
 * [My own tool](https://reviewer.eugenebos.com/test) - the only benefit the code is plain, so you can find very easily how everything is tested.
+* [Rebrowser-bot-detector](https://bot-detector.rebrowser.net/) - interesting test where you have to do some automation tasks and it will try to detect you
 
 Others:
 * [BrowserScan](https://www.browserscan.net/en)
@@ -69,11 +70,15 @@ More tools can be found: at https://github.com/kkoooqq/fakebrowser
 
 For Puppeteer:  
 * [Imposter](https://github.com/TheGP/Imposter) - my package that emulates human actions on the page, currently in development, join me :)
-* [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer)
+* [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment
+* [Secure-puppeteer](https://github.com/prescience-data/secure-puppeteer) - isolated environment, outdated, so XPath and some feautures doesnt work
 * [Extra stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) - trash, as easily detected by CreepJS  
 * [Fingerprints from Bablosoft](http://fingerprints.bablosoft.com/) - free and paid fingerprints to use  
-* [Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data  
-  
+* [Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data
+
+For Playwrite:
+* [Rebrowser](https://github.com/rebrowser/rebrowser-patches)
+
 For Selenium/Python:  
 * [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 * [Pyautogui](https://pyautogui.readthedocs.io/en/latest/) - control the mouse and keyboard to automate interactions with other applications
