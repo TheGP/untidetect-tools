@@ -76,8 +76,8 @@ For Puppeteer:
 * [Fingerprints from Bablosoft](http://fingerprints.bablosoft.com/) - free and paid fingerprints to use  
 * [Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data
 
-For Playwrite:
-* [Rebrowser](https://github.com/rebrowser/rebrowser-patches)
+For Playwright:
+* [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment 
 
 For Selenium/Python:  
 * [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
