@@ -83,6 +83,7 @@ For Playwright:
 For Selenium/Python:  
 * [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 * [Pyautogui](https://pyautogui.readthedocs.io/en/latest/) - control the mouse and keyboard to automate interactions with other applications
+* [Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - use selenium without chromedriver
 
 For request libs:
 * [Curl-impersonate](https://github.com/lwthiker/curl-impersonate)
