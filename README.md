@@ -24,6 +24,7 @@ Important: if you work on something related to undetection, like humanizing pupp
 * [OctoBrowser](https://octobrowser.net/) - €21 for 10 profiles
 * [ixBrowser](https://ixbrowser.com/en) - free, but doesn't mask everything, for example, no GPU masking, API by request
 * [Gpmlogin](https://gpmloginapp.com/en) - didn't check it yet, pricing is for unlimited use, for 1pc it is $125
+* [VektorT13](https://detect.expert/antidetect/) - anti-detect based on virtual machines
 
 
 Useless:
