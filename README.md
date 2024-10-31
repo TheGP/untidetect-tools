@@ -7,7 +7,7 @@ While looking around, it may be a good idea to sign up on all the Discord channe
 Important: if you work on something related to undetection, like humanizing puppeteer actions, we may consider collaboration as I'm working currently on it too. My [TG](https://t.me/eugenebos).
 
 # Anti-detect browsers
-* [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 1000 profiles opened / day free, $299 unlimited, quite new on the market.
+* [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 10 profiles opened / day free, $299 for 3000 open profiles per day, quite new on the market.
 * [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs", 1 additional config $1 (API + driver automation)
 * [Multilogin](https://multilogin.com/#a_aid=secretbonus3) - starts from €74 for 100 profiles  
 * [Incogniton](https://incogniton.com/aff/620515/) - 10 free, $29.99/Month for 50
