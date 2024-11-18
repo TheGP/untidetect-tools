@@ -12,7 +12,7 @@ Important: if you work on something related to undetection, like humanizing pupp
 * [Multilogin](https://multilogin.com/#a_aid=secretbonus3) - starts from €74 for 100 profiles  
 * [Incogniton](https://incogniton.com/aff/620515/) - 10 free, $29.99/Month for 50
 * [Octo Browser](https://octobrowser.net) - starts from €21 for 10  
-* [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - $24 for 100 profiles, no unlimited plan, free proxies  
+* [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - 3 free, $24 for 100 profiles, no unlimited plan, free proxies  
 * [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan  
 * [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users  
 * [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100  
