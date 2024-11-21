@@ -2,7 +2,7 @@
 Just making a tools list for my project, feel free to send pull requests :) 
 While looking around, it may be a good idea to sign up on all the Discord channels each product has to find some interesting insides from users.
 
-
+[![CapSolver](capsolver.jpg)](https://www.capsolver.com/?utm_source=github&utm_medium=banner_github&utm_campaign=untidetect-tools)
 
 Important: if you work on something related to undetection, like humanizing puppeteer actions, we may consider collaboration as I'm working currently on it too. My [TG](https://t.me/eugenebos).
 
