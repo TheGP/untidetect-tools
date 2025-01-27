@@ -24,6 +24,8 @@ Important: if you work on something related to undetection, like humanizing pupp
 * [Gpmlogin](https://gpmloginapp.com/en) - didn't check it yet, pricing is for unlimited use, for 1pc it is $125
 * [VektorT13](https://detect.expert/antidetect/) - anti-detect based on virtual machines
 * [Wade](https://wade.is/)
+* [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox
+* [LightPanda](https://lightpanda.io/) - not anti detect, but fast browser for scraping
 
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
