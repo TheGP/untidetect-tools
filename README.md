@@ -82,7 +82,9 @@ For Playwright:
 * [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment 
 
 For Selenium/Python:  
-* [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+* [NoDriver](https://github.com/ultrafunkamsterdam/nodriver) - successor of Undetected-chromedriver
+* [ZenDriver](https://github.com/stephanlensky/zendriver) - fork of NoDriver
+* [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - outdated
 * [Pyautogui](https://pyautogui.readthedocs.io/en/latest/) - control the mouse and keyboard to automate interactions with other applications
 * [Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - use selenium without chromedriver
 
