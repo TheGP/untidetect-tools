@@ -37,7 +37,8 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
   
 # Detection tests
 
-* [Creep JS](https://abrahamjuliot.github.io/creepjs/) - the most advanced detector  
+* [Creep JS](https://abrahamjuliot.github.io/creepjs/) - the advanced detector
+* [Brotector](https://kaliiiiiiiiii.github.io/brotector/) - the most advanced detector, crushes automation on detect
 * [Pixelscan](https://pixelscan.net/) - simple fingerprint checker
 * [F.vision](https://fv.pro/check-privacy/general) - old f.vision
 * [NikolaiT/zardaxt](https://github.com/NikolaiT/zardaxt) - Passive TCP/IP fingerprinting (look for Live demo link)
