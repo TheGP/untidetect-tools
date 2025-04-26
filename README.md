@@ -26,6 +26,8 @@ Important: if you work on something related to undetection, like humanizing pupp
 * [Wade](https://wade.is/)
 * [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox
 * [LightPanda](https://lightpanda.io/) - not anti detect, but fast browser for scraping
+* [Whologin](https://whologin.com/) - Free plan has unlimited profiles but no automation. paid - $89/everything
+* [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
 
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
