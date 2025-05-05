@@ -28,6 +28,8 @@ Important: if you work on something related to undetection, like humanizing pupp
 * [LightPanda](https://lightpanda.io/) - not anti detect, but fast browser for scraping
 * [Whologin](https://whologin.com/) - Free plan has unlimited profiles but no automation. paid - $89/everything
 * [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
+* [PotaBrowser](https://github.com/snaberino/pota-browser) - patched chromium
+* [ChromePowerApp](https://github.com/zmzimpl/chrome-power-app) - chinese multiaccounter
 
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
