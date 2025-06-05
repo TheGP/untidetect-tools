@@ -146,6 +146,13 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [9proxy.com](https://9proxy.com/sign-up?inviteCode=9P_3YVqNdK8) - $0.07-0.2/IP
 * [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) - $2-5.71/GB
 
+# Buying accounts
+Hm. Cant get it right? You can always shortcut:
+* [AccsMarket](https://accsmarket.com/en/?ref=631958) - en/ru, crypto
+* [DarkStore](https://dark.shopping/?p=197898) - ru lang, crypto / local russian bank payment
+
+Many other stuff can be found at [BlackHatWorld](blackhatworld.com) but usually more expensive.
+
 # Other
 
 * [Script to collect visitors' fingerprints](https://github.com/kkoooqq/fakebrowser/blob/main/script/dumpDD.js) on your website.
