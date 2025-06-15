@@ -30,6 +30,8 @@ Important: if you work on something related to undetection, like humanizing pupp
 * [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
 * [PotaBrowser](https://github.com/snaberino/pota-browser) - patched chromium
 * [ChromePowerApp](https://github.com/zmzimpl/chrome-power-app) - chinese multiaccounter
+* [BitBrowser](https://www.bitbrowser.net/) - antidetect from Hong kong, 10 free, 50/$9
+* [0detect](http://0detect.com/en/auth/signup?refId=684ee1b890abd5c0fe3d9e51) - 5 free, 50/$14
 
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
