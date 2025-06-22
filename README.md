@@ -2,36 +2,38 @@
 Just making a tools list for my project, feel free to send pull requests :) 
 While looking around, it may be a good idea to sign up on all the Discord channels each product has to find some interesting insides from users.
 
-Important: if you work on something related to undetection, like humanizing puppeteer actions, we may consider collaboration as I'm working currently on it too. My [TG](https://t.me/eugenebos).
+Important: if you work on something related to undetection, like humanizing puppeteer actions, we may consider collaboration, as I'm working currently on it too. My [TG](https://t.me/eugenebos).
+
+😊 - automation supported on free plan 🙄 - not supported
 
 # Anti-detect browsers
-* [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs", 1 additional config $1 (API + driver automation)
-* [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 10 profiles opened / day free, $299 for 3000 open profiles per day, quite new on the market.
+* [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs", 1 additional config $1 (API + driver automation) 🙄
+* [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 10 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
 * [Multilogin](https://multilogin.com/#a_aid=secretbonus3) - starts from €74 for 100 profiles  
-* [Incogniton](https://incogniton.com/aff/620515/) - 10 free, $29.99/Month for 50
+* [Incogniton](https://incogniton.com/aff/620515/) - 10 free for 2 months then 3 only, $29.99/Month for 50 🙄
 * [Octo Browser](https://octobrowser.net) - starts from €21 for 10  
-* [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - 3 free, $24 for 100 profiles, no unlimited plan, free proxies  
-* [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan  
-* [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users  
-* [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100  
+* [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - 3 free for 1 month, $24 for 100 profiles, no unlimited plan, free proxies 🙄
+* [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan 🙄
+* [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users 😊
+* [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100 😊
 * [Kameleo](https://kameleo.io/) - starts €59/user with unlimited profiles  
 * [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
 * [Indigo](https://www.goindigo.in/) - €99 for 100 profiles  
-* [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited  
-* [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio, for Puppeteer look at [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints), the only browser as I know that supports faking canvas (with [PerfectCanvas](https://wiki.bablosoft.com/doku.php?id=perfectcanvas). If you need a code for your website to generate own canvases I can sell you it. Then you can add it to your fingerprints (Their PerfectCanvas is very slow and you can get only 30-40 per day, otherwise will need to buy CustomServer).
+* [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited ?
+* [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio, for Puppeteer look at [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints), the only browser as I know that supports faking canvas (with [PerfectCanvas](https://wiki.bablosoft.com/doku.php?id=perfectcanvas). If you need a code for your website to generate own canvases I can sell you it. Then you can add it to your fingerprints (Their PerfectCanvas is very slow and you can get only 30-40 per day, otherwise you will need to buy CustomServer) 😊
 * [OctoBrowser](https://octobrowser.net/) - €21 for 10 profiles
-* [ixBrowser](https://ixbrowser.com/en) - free, but doesn't mask everything, for example, no GPU masking, API by request
+* [ixBrowser](https://ixbrowser.com/en) - free 10/created a day, but doesn't mask everything (for example, no GPU masking), API by request 🙄
 * [Gpmlogin](https://gpmloginapp.com/en) - didn't check it yet, pricing is for unlimited use, for 1pc it is $125
 * [VektorT13](https://detect.expert/antidetect/) - anti-detect based on virtual machines
-* [Wade](https://wade.is/)
-* [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox
-* [LightPanda](https://lightpanda.io/) - not anti detect, but fast browser for scraping
-* [Whologin](https://whologin.com/) - Free plan has unlimited profiles but no automation. paid - $89/everything
-* [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
+* [Wade](https://wade.is/) - from $30/month, automation from $160 🙄
+* [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox 😊
+* [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
+* [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
 * [PotaBrowser](https://github.com/snaberino/pota-browser) - patched chromium
-* [ChromePowerApp](https://github.com/zmzimpl/chrome-power-app) - chinese multiaccounter
-* [BitBrowser](https://www.bitbrowser.net/) - antidetect from Hong kong, 10 free, 50/$9
-* [0detect](http://0detect.com/en/auth/signup?refId=684ee1b890abd5c0fe3d9e51) - 5 free, 50/$14
+* [ChromePowerApp](https://github.com/zmzimpl/chrome-power-app) - chinese multiaccounter (but fingerprints are weak, cant change screen, fonts, GPU) 😊
+* [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
+* [0detect](http://0detect.com/en/auth/signup?refId=684ee1b890abd5c0fe3d9e51) - 5 free, 50/$14, automation from $111 🙄
+* [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
 
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
