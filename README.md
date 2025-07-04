@@ -2,7 +2,15 @@
 Just making a tools list for my project, feel free to send pull requests :) 
 While looking around, it may be a good idea to sign up on all the Discord channels each product has to find some interesting insides from users.
 
-Important: if you work on something related to undetection, like humanizing puppeteer actions, we may consider collaboration, as I'm working currently on it too. My [TG](https://t.me/eugenebos).
+<table>
+  <tr>
+    <td><img src="https://files.eugenebos.com/untidect-hub-circle-opt.png" width="150"/></td>
+    <td>
+Any questions? Please ask in <a href="https://t.me/UntidetectHub">UntidetectHub</a> instead of sending me private messages.
+If you're working on anything related to anti-detection, feel free to join — others might be working on similar things too.
+    </td>
+  </tr>
+</table>
 
 😊 - automation supported on free plan 🙄 - not supported
 
