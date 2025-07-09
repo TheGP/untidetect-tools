@@ -58,6 +58,7 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
 * [Brotector](https://kaliiiiiiiiii.github.io/brotector/) - the most advanced detector, crushes automation on detect
 * [Pixelscan](https://pixelscan.net/) - simple fingerprint checker
 * [F.vision](https://fv.pro/check-privacy/general) - old f.vision
+* [FpTing](https://fpting.com/fp.html) - shows a lot of data, but found 5 wrong lies on my real Firefox Linux
 * [NikolaiT/zardaxt](https://github.com/NikolaiT/zardaxt) - Passive TCP/IP fingerprinting (look for Live demo link)
 * [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you are protected from fingerprinting  
 * [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
