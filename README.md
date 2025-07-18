@@ -148,7 +148,8 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [365sms](https://365sms.vip/?ref=626004) - top up from $1
 
 # Residential proxies
-[List of mobile proxies](https://github.com/TheGP/4g-proxies-providers) - many small providers
+[List of mobile proxies](https://github.com/TheGP/4g-proxies-providers) - including many small providers
+[List of proxy providers](https://github.com/TheGP/proxy-providers-list) - under construction, send ideas on how to organize it
 
 * [BrightData](https://get.brightdata.com/jdpda3d3pu8n) - around $8/GB
 * [DataImpulse](https://dataimpulse.com/?aff=10601) - from $1/GB (has $5/5Gb welcome package, but normally top-up is $50+). IMAP/SMTP blocked.
