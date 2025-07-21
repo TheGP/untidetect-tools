@@ -147,7 +147,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [SmsBower](https://smsbower.com/registration?ref=110541) - min top up $2.86, low commission
 * [365sms](https://365sms.vip/?ref=626004) - top up from $1
 
-# Residential proxies
+# Proxies
 [List of mobile proxies](https://github.com/TheGP/4g-proxies-providers) - including many small providers
 [List of proxy providers](https://github.com/TheGP/proxy-providers-list) - under construction, send ideas on how to organize it
 
