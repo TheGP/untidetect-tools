@@ -43,6 +43,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [0detect](http://0detect.com/en/auth/signup?refId=684ee1b890abd5c0fe3d9e51) - 5 free, 50/$14, automation from $111 🙄
 * [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
 * [LinkenSphere](https://linkensphere.info/en/) - $30+/month. One of people found hidden process that it runs, can anyone confirm it?
+* [DisCloak](https://dicloak.com) - 5 free, $8/50 profiles
 
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
