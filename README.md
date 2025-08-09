@@ -150,8 +150,8 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [Cyberyozh](https://app.cyberyozh.com/reception-sms/residential/) - virtual + residential, expensive
 
 # Proxies
+[List of proxy providers](https://github.com/TheGP/proxy-providers-list) - 25+ proxy providers with price comparison
 [List of mobile proxies](https://github.com/TheGP/4g-proxies-providers) - including many small providers
-[List of proxy providers](https://github.com/TheGP/proxy-providers-list) - under construction, send ideas on how to organize it
 
 * [BrightData](https://get.brightdata.com/jdpda3d3pu8n) - around $8/GB
 * [DataImpulse](https://dataimpulse.com/?aff=10601) - from $1/GB (has $5/5Gb welcome package, but normally top-up is $50+). IMAP/SMTP blocked.
