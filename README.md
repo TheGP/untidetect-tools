@@ -101,7 +101,8 @@ For Puppeteer:
 * [Perfect Canvas from Bablosft](https://wiki.bablosoft.com/doku.php?id=perfectcanvas) - emulating real canvas data
 
 For Playwright:
-* [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment 
+* [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment
+* [Playwrigh-ghost](https://github.com/regseb/playwright-ghost) - Playwright with plugins to be a ghost
 
 For Selenium/Python:  
 * [NoDriver](https://github.com/ultrafunkamsterdam/nodriver) - successor of Undetected-chromedriver
