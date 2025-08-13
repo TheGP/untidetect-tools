@@ -12,6 +12,8 @@ If you're working on anything related to anti-detection, feel free to join — o
   </tr>
 </table>
 
+✳️ checkout new [Proxy Providers List](https://github.com/TheGP/Proxy-Providers-List) and tell me if its sucks or star it if its useful 
+
 😊 - automation supported on free plan 🙄 - not supported
 
 # Anti-detect browsers
@@ -35,6 +37,8 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [VektorT13](https://detect.expert/antidetect/) - anti-detect based on virtual machines
 * [Wade](https://wade.is/) - from $30/month, automation from $160 🙄
 * [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox 😊
+
+Not checked yet:
 * [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
 * [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
 * [PotaBrowser](https://github.com/snaberino/pota-browser) - patched chromium
@@ -44,13 +48,14 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
 * [LinkenSphere](https://linkensphere.info/en/) - $30+/month. One of people found hidden process that it runs, can anyone confirm it?
 * [DisCloak](https://dicloak.com) - 5 free, $8/50 profiles
+<!--* [Afina](https://afina.io/en) - from $35/m unlimited profiles-->
 
 Useless:
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
 * [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
 * [GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
 * [MarketerBrowser](https://www.marketerbrowser.com/) - can't even switch user-agent without detection
-  
+
 A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/stati/antidetect-palivo/). Example from the article: `if( Object.getOwnPropertyNames(navigator)[0] ) alert('fake parameters detected');`
   
 # Detection tests
