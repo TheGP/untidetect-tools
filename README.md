@@ -17,22 +17,21 @@ If you're working on anything related to anti-detection, feel free to join — o
 😊 - automation supported on free plan 🙄 - not supported
 
 # Anti-detect browsers
+* [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - 3 free for 1 month, $24 for 100 profiles, no unlimited plan, free proxies 🙄
 * [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs", 1 additional config $1 (API + driver automation) 🙄
 * [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 10 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
 * [Multilogin](https://multilogin.com/#a_aid=secretbonus3) - starts from €74 for 100 profiles  
 * [Incogniton](https://incogniton.com/aff/620515/) - 10 free for 2 months then 3 only, $29.99/Month for 50 🙄
-* [Octo Browser](https://octobrowser.net) - starts from €21 for 10  
-* [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - 3 free for 1 month, $24 for 100 profiles, no unlimited plan, free proxies 🙄
 * [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan 🙄
 * [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users 😊
 * [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100 😊
-* [Kameleo](https://kameleo.io/) - starts €59/user with unlimited profiles  
+* [Octo Browser](https://go.octobrowser.net/signup/?p=10006676) - starts from €21 for 10  
+* [Kameleo](https://kameleo.io/?ref=21669) - starts €59/user with unlimited profiles  
 * [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
-* [Indigo](https://www.goindigo.in/) - €99 for 100 profiles  
+* [Indigo](https://indigobrowser.com/) - €99 for 100 profiles  
 * [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited ?
 * [Bablosoft](https://bablosoft.com/shop/BrowserAutomationStudio) - free browser automation studio, for Puppeteer look at [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints), the only browser as I know that supports faking canvas (with [PerfectCanvas](https://wiki.bablosoft.com/doku.php?id=perfectcanvas). If you need a code for your website to generate own canvases I can sell you it. Then you can add it to your fingerprints (Their PerfectCanvas is very slow and you can get only 30-40 per day, otherwise you will need to buy CustomServer) 😊
-* [OctoBrowser](https://octobrowser.net/) - €21 for 10 profiles
-* [ixBrowser](https://ixbrowser.com/en) - free 10/created a day, but doesn't mask everything (for example, no GPU masking) 🙄
+* [ixBrowser](https://www.ixbrowser.com/code/FW89) - free 10/created a day, but doesn't mask everything (for example, no GPU masking) 🙄
 * [Gpmlogin](https://gpmloginapp.com/en) - didn't check it yet, pricing is for unlimited use, for 1pc it is $125
 * [VektorT13](https://detect.expert/antidetect/) - anti-detect based on virtual machines
 * [Wade](https://wade.is/) - from $30/month, automation from $160 🙄
