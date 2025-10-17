@@ -24,7 +24,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [Incogniton](https://incogniton.com/aff/620515/) - 10 free for 2 months then 3 only, $29.99/Month for 50 🙄
 * [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan 🙄
 * [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users 😊
-* [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 10 free, $89 for 100 😊
+* [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 5 free, $89 for 100 😊
 * [Octo Browser](https://go.octobrowser.net/signup/?p=10006676) - starts from €21 for 10  
 * [Kameleo](https://kameleo.io/?ref=21669) - starts €59/user with unlimited profiles  
 * [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
