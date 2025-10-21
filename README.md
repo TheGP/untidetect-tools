@@ -36,13 +36,13 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [VektorT13](https://detect.expert/antidetect/) - anti-detect based on virtual machines
 * [Wade](https://wade.is/) - from $30/month, automation from $160 🙄
 * [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox 😊
+* [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊 - was outdated on the last check 21 Oct 2025 (v134)
 
 Not checked yet:
 * [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
 * [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
 * [PotaBrowser](https://github.com/snaberino/pota-browser) - patched chromium
 * [ChromePowerApp](https://github.com/zmzimpl/chrome-power-app) - chinese multiaccounter (but fingerprints are weak, cant change screen, fonts, GPU) 😊
-* [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
 * [0detect](http://0detect.com/en/auth/signup?refId=684ee1b890abd5c0fe3d9e51) - 5 free, 50/$14, automation from $111 🙄
 * [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
 * [LinkenSphere](https://linkensphere.info/en/) - $30+/month. One of people found hidden process that it runs, can anyone confirm it?
