@@ -39,6 +39,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊 - was outdated on the last check 21 Oct 2025 (v134)
 
 Not checked yet:
+* [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
 * [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
 * [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
 * [PotaBrowser](https://github.com/snaberino/pota-browser) - patched chromium
