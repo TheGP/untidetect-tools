@@ -36,7 +36,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [VektorT13](https://detect.expert/antidetect/) - anti-detect based on virtual machines
 * [Wade](https://wade.is/) - from $30/month, automation from $160 🙄
 * [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox 😊
-* [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊 - was outdated on the last check 21 Oct 2025 (v134)
+* [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
 
 Not checked yet:
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
