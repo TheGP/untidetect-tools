@@ -39,6 +39,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
 
 Not checked yet:
+* [RoxyBrowser](https://www.roxybrowser.com/) - 5 free, $0.03-0.8 profile
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
 * [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
 * [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
