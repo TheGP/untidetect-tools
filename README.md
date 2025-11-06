@@ -25,6 +25,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan 🙄
 * [Morelogin](https://www.morelogin.com/?from=AAA2qquLhqBd) - 2 free, $9 for 10 profiles and 2 users 😊
 * [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 5 free, $89 for 100 😊
+* [RoxyBrowser](https://roxybrowser.com?code=1105EASA) - 5 free, $0.03-0.8 profile, offers free Netflix
 * [Octo Browser](https://go.octobrowser.net/signup/?p=10006676) - starts from €21 for 10  
 * [Kameleo](https://kameleo.io/?ref=21669) - starts €59/user with unlimited profiles  
 * [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
@@ -39,7 +40,6 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
 
 Not checked yet:
-* [RoxyBrowser](https://www.roxybrowser.com/) - 5 free, $0.03-0.8 profile
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
 * [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
 * [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
