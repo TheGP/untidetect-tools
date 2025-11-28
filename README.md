@@ -152,6 +152,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [Definitely-not-a-robot](https://github.com/dougwithseismic/npm-definitely-not-a-robot)  
 * [Puppeteer-Humanize](https://github.com/nicoandmee/puppeteer-humanize)  
 * [Ghost-Cursor](https://github.com/Xetera/ghost-cursor) - generate realistic, human-like mouse movement data between coordinates
+* [HumanCursor](https://github.com/riflosnake/HumanCursor) -  A Python package for simulating human mouse movements
 
 # Captha solvers
 * [List of everything related to Captchas](https://github.com/TheGP/Everything-About-Captchas/)
