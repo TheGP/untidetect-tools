@@ -79,6 +79,7 @@ Automation:
 * [Brotector](https://kaliiiiiiiiii.github.io/brotector/) - most advanced detector, even crushes automation on detect
 * [Behavioral Bot Classification](https://bot.incolumitas.com/)
 * [BotChecker](https://botchecker.net/) - currently offline, send me pull or message when fixed pls
+* [Pixelscan Bot detector](https://pixelscan.net/bot-check) - false positive Firefox inside kvm MacOS
 
 Canvas:
 * [Canvas inspector](https://data.bablosoft.com/canvas-inspector-3/distr/CanvasInspectorInstall.exe) - helps to detect scripts on website that draw canvases & audio
@@ -95,6 +96,7 @@ Connection:
 * [NikolaiT/zardaxt](https://github.com/NikolaiT/zardaxt) - Passive TCP/IP fingerprinting
 * [ipQualityScore](https://www.ipqualityscore.com/) - checking your IP reputation and other stuff. Real Russian IPs and many other detected as VPN thou LOL. Has API
 * [FingerBank](https://fingerbank.org/) - API for checking TCP fingerprints by signature (Ja3 can [get here](https://tls.peet.ws/))
+* [DnsLeakRest](https://dnsleaktest.com/results.html) - DNS leak test
 
 Offline:
 * [Extension-detector](https://z0ccc.github.io/extension-detector/)
