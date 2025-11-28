@@ -61,35 +61,46 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
   
 # Detection tests
 
-* [Creep JS](https://abrahamjuliot.github.io/creepjs/) - the advanced detector
-* [Brotector](https://kaliiiiiiiiii.github.io/brotector/) - the most advanced detector, crushes automation on detect
+Everything:
+* [Creep JS](https://abrahamjuliot.github.io/creepjs/) - advanced fingerprint information
 * [Pixelscan](https://pixelscan.net/) - simple fingerprint checker
 * [F.vision](https://fv.pro/check-privacy/general) - old f.vision
-* [NikolaiT/zardaxt](https://github.com/NikolaiT/zardaxt) - Passive TCP/IP fingerprinting (look for Live demo link)
 * [Coveryourtracks](https://coveryourtracks.eff.org/) - test to see if you are protected from fingerprinting  
-* [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score  
 * [AmIUnique Fingerprint](https://amiunique.org/fingerprint) - see your fingerprint  
 * [Sannysoft Fingerprint](https://bot.sannysoft.com/) - check your fingerprint  
-* [BrowserLeaks](https://browserleaks.com/)  
-* [Extension-detector](https://z0ccc.github.io/extension-detector/)
-* [Audio fingerprint](https://audiofingerprint.openwpm.com/)
-* [Behavioral Bot Classification](https://bot.incolumitas.com/)
-* [Canvas Tampering Detection](https://kkapsner.github.io/CanvasBlocker/test/detectionTest.html)
-* [ProxyDetect](https://proxydetect.live/) - detection of proxy/vpn <!-- https://proxy.incolumitas.com/proxy_detect.html -->
+* [BrowserLeaks](https://browserleaks.com/) - many different fingerprint checks
+* [Audio fingerprint](https://audiofingerprint.openwpm.com/) - audio
 * [WebbrowserTools](https://webbrowsertools.com/) - many tools to check fingerprint
 * [My own tool](https://reviewer.eugenebos.com/test) - the only benefit the code is plain, so you can find very easily how everything is tested.
-* [Rebrowser-bot-detector](https://bot-detector.rebrowser.net/) - interesting test where you have to do some automation tasks and it will try to detect you
-* [BotChecker](https://botchecker.net/) 
-
-Others:
 * [BrowserScan](https://www.browserscan.net/en)
-* [Iphey](https://iphey.com/)
-* [Canvas inspector](https://data.bablosoft.com/canvas-inspector-3/distr/CanvasInspectorInstall.exe)
-* [ipQualityScore](https://www.ipqualityscore.com/) - API for checking your IP reputation and other stuff. But it is dogshit, as I can't register there from real devices, it says Im using VPN/proxy. Maybe only for USA.
-* [FingerBank](https://fingerbank.org/) - API for checking TCP fingerprints by signature
+
+Automation:
+* [Rebrowser-bot-detector](https://bot-detector.rebrowser.net/) - interesting test where you have to do some automation tasks and it will try to detect you
+* [Brotector](https://kaliiiiiiiiii.github.io/brotector/) - most advanced detector, even crushes automation on detect
+* [Behavioral Bot Classification](https://bot.incolumitas.com/)
+* [BotChecker](https://botchecker.net/) - currently offline, send me pull or message when fixed pls
+
+Canvas:
+* [Canvas inspector](https://data.bablosoft.com/canvas-inspector-3/distr/CanvasInspectorInstall.exe) - helps to detect scripts on website that draw canvases & audio
+* [Canvas Tampering Detection](https://kkapsner.github.io/CanvasBlocker/test/detectionTest.html)
+
+Captcha scoring:
+* [ReCaptha score](https://antcpt.com/score_detector/) - see you reCaptcha score
 * [Cloudflare captcha](https://nowsecure.nl) - check if you are passing the captcha
 
+Connection:
+* [ProxyDetect](https://proxydetect.live/) - Proxy/VPN detection (implementing NikolaiT/zardaxt lib below) <!-- https://proxy.incolumitas.com/proxy_detect.html -->
+* [IPRoyal WebRTC leak](https://iproyal.com/webrtc-leak-test/) - WebRTC leak detection
+* [BrowserLeaks WebRTC leak](https://browserleaks.com/webrtc) - WebRTC leak detection
+* [NikolaiT/zardaxt](https://github.com/NikolaiT/zardaxt) - Passive TCP/IP fingerprinting
+* [ipQualityScore](https://www.ipqualityscore.com/) - checking your IP reputation and other stuff. Real Russian IPs and many other detected as VPN thou LOL. Has API
+* [FingerBank](https://fingerbank.org/) - API for checking TCP fingerprints by signature (Ja3 can [get here](https://tls.peet.ws/))
+
+Offline:
+* [Extension-detector](https://z0ccc.github.io/extension-detector/)
+
 Not recommended:
+* [Iphey](https://iphey.com/) - basic, doesn't detect basic VPN btw
 * [FpTing](https://fpting.com/fp.html) - made by students for a [study paper](https://www.mdpi.com/1424-8220/23/6/3087), lacks maintenance, and provides some incorrect data (e.g., 5 falsely detected lies for my Firefox on Linux).
 
 More tools can be found at https://github.com/kkoooqq/fakebrowser  
