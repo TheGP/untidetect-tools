@@ -97,6 +97,7 @@ Connection:
 * [ipQualityScore](https://www.ipqualityscore.com/) - checking your IP reputation and other stuff. Real Russian IPs and many other detected as VPN thou LOL. Has API
 * [FingerBank](https://fingerbank.org/) - API for checking TCP fingerprints by signature (Ja3 can [get here](https://tls.peet.ws/))
 * [DnsLeakRest](https://dnsleaktest.com/results.html) - DNS leak test
+* [BrowserLeaks DNS leak](https://browserleaks.com/dns) - DNS leak test
 
 Offline:
 * [Extension-detector](https://z0ccc.github.io/extension-detector/)
