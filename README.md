@@ -138,6 +138,9 @@ For request libs:
 * [curl_cffi for Python](https://github.com/yifeikong/curl_cffi)
 * [Got-Scraping for NodeJS](https://github.com/apify/got-scraping)
 
+Other:
+* [NutJs](https://nutjs.dev/) - JS OS level automation, use package [@nut-tree-fork](https://www.npmjs.com/package/@nut-tree-fork/nut-js) for precompiled binaries
+
 Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference/api/i18n#concepts_and_usage):
 * `--profile-directory=${dir_name}` // should be together with `userDataDir`
 * `--accept-lang=en,en-US,` // th,en,en-GB,en-US works only on new profile dirs
