@@ -188,6 +188,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) - $3/GB (up to 60 min), $0.22/IP, $5/30 days
 * [9proxy.com](https://9proxy.com/sign-up?inviteCode=9P_3YVqNdK8) - $0.07-0.2/IP
 * [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) - $2-5.71/GB
+* [Roundproxies](https://roundproxies.com/) - from 3.25/GB, medium pricing tier (IMAP/SMTP available - ask support for opening ports)
 
 # Buying accounts
 Hm. Cant get it right? You can always shortcut:
