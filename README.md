@@ -163,6 +163,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [List of everything related to Captchas](https://github.com/TheGP/Everything-About-Captchas/)
 
 # SMS confirmations
+* [HeroSMS](https://hero-sms.com/?ref=510375)
 * [SmsBower](https://smsbower.com/registration?ref=110541) - min top up $2.86, low commission
 * [OnlineSim](https://onlinesim.io/?bref=880810) - very expensive
 * [VakSms](https://vak-sms.com/3b4308f6-b7ff-4085-a095-5e63f650fa7f) - not every country is available
