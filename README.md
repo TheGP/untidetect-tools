@@ -177,7 +177,6 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 [List of proxy providers](https://github.com/TheGP/proxy-providers-list) - 25+ proxy providers with price comparison
 [List of mobile proxies](https://github.com/TheGP/4g-proxies-providers) - including many small providers
 
-* [IPcook](https://www.ipcook.com/?ref=818XJE&utm_source=github&utm_medium=referral&utm_campaign=untidetect_tools) - Pricing starts at $3.2 for 1 GB and can be as low as $0.5/GB if buying 10,000 GB.
 * [BrightData](https://get.brightdata.com/jdpda3d3pu8n) - around $8/GB
 * [DataImpulse](https://dataimpulse.com/?aff=10601) - from $1/GB (has $5/5Gb welcome package, but normally top-up is $50+). IMAP/SMTP blocked.
 * [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) - $6/Gb (from 4.5), IPs: from $6/month per 20 (shared). IMAP/SMTP works.
@@ -190,6 +189,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [9proxy.com](https://9proxy.com/sign-up?inviteCode=9P_3YVqNdK8) - $0.07-0.2/IP
 * [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) - $2-5.71/GB
 * [Roundproxies](https://roundproxies.com/) - from 3.25/GB, medium pricing tier (IMAP/SMTP available - ask support for opening ports)
+* [IPcook](https://www.ipcook.com/?ref=818XJE&utm_source=github&utm_medium=referral&utm_campaign=untidetect_tools) - Pricing starts at $3.2 for 1 GB and can be as low as $0.5/GB if buying 10,000 GB.
 
 # Buying accounts
 Hm. Cant get it right? You can always shortcut:
