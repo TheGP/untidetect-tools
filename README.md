@@ -38,7 +38,6 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox 😊
 * [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
 * [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 30 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
-* [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit (real monitor res etc)! 🙄
 
 Not checked yet:
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
@@ -53,6 +52,7 @@ Not checked yet:
 <!--* [Afina](https://afina.io/en) - from $35/m unlimited profiles-->
 
 Useless:
+* [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit (real monitor res etc)! 🙄
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
 * [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
 * [GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
