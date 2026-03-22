@@ -40,6 +40,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 30 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
 
 Not checked yet:
+* [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit 🙄
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
 * [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
 * [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
@@ -52,7 +53,6 @@ Not checked yet:
 <!--* [Afina](https://afina.io/en) - from $35/m unlimited profiles-->
 
 Useless:
-* [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit (real monitor res etc)! 🙄
 * [AntBrowser](https://antbrowser.pro) - too many lies detected by CreepJS
 * [Switch Antidetect](https://switch.mybot.su) - using Chrome 103 while 120 is out. Too slow updates.
 * [GhostBrowser](https://ghostbrowser.com/) - only user-agent switch, easily fingerprinted
