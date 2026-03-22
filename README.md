@@ -27,7 +27,6 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [RoxyBrowser](https://roxybrowser.com?code=1105EASA) - 5 free, $0.03-0.8 profile, offers free Netflix
 * [Octo Browser](https://go.octobrowser.net/signup/?p=10006676) - starts from €21 for 10  
 * [Kameleo](https://kameleo.io/?ref=21669) - starts €59/user with unlimited profiles
-* [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies 🙄
 * [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
 * [Indigo](https://indigobrowser.com/) - €99 for 100 profiles  
 * [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited ?
@@ -39,6 +38,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox 😊
 * [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
 * [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 30 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
+* [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit (real monitor res etc)! 🙄
 
 Not checked yet:
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
