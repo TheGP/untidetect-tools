@@ -191,6 +191,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) - $2-5.71/GB
 * [Roundproxies](https://roundproxies.com/) - from 3.25/GB, medium pricing tier (IMAP/SMTP available - ask support for opening ports)
 * [IPcook](https://www.ipcook.com/?ref=818XJE&utm_source=github&utm_medium=referral&utm_campaign=untidetect_tools) - Pricing starts at $3.2 for 1 GB and can be as low as $0.5/GB if buying 10,000 GB.
+* [IPLoop](https://iploop.io) - 2M+ residential IPs across 195 countries, HTTP/SOCKS5, city-level targeting. Python/Node.js/Java SDKs with built-in TLS fingerprinting and 66 site presets.
 
 # Buying accounts
 Hm. Cant get it right? You can always shortcut:
