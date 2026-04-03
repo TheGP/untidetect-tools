@@ -157,7 +157,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [Fake-browser](https://github.com/kkoooqq/fakebrowser) Based on Puppeteer, with human-like interactions  
 * [Bezier mouse movements](https://github.com/Pomax/bezierjs)  
 * [Definitely-not-a-robot](https://github.com/dougwithseismic/npm-definitely-not-a-robot)  
-* [Puppeteer-Humanize](https://github.com/nicoandmee/puppeteer-humanize)  
+* [Puppeteer-Humanize](https://github.com/force-adverse/puppeteer-humanize)  
 * [Ghost-Cursor](https://github.com/Xetera/ghost-cursor) - generate realistic, human-like mouse movement data between coordinates
 * [HumanCursor](https://github.com/riflosnake/HumanCursor) -  A Python package for simulating human mouse movements
 
