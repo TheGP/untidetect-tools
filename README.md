@@ -183,14 +183,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) - $6/Gb (from 4.5), IPs: from $6/month per 20 (shared). IMAP/SMTP works.
 * [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) - from $1.8/Gb residential, mobile from $2.2
 * [GeoNode](https://geonode.com/?ref=152763) - $3/Gb (from $0.45)
-* [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) - $3/Gb (from $0.8), has static too ($3/week, $5/month), IMAP/SMTP blocked.
 * [Soax](https://soax.sjv.io/gONVj5) - starts at $6.6/GB and less
-* [IPRoyal](https://iproyal.com/?r=381340) - starts at around 5.25/GB for 10GB, less too expensive (IMAP only if spending 5k)
-* [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) - $3/GB (up to 60 min), $0.22/IP, $5/30 days
-* [9proxy.com](https://9proxy.com/sign-up?inviteCode=9P_3YVqNdK8) - $0.07-0.2/IP
-* [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) - $2-5.71/GB
-* [Roundproxies](https://roundproxies.com/) - from 3.25/GB, medium pricing tier (IMAP/SMTP available - ask support for opening ports)
-* [IPcook](https://www.ipcook.com/?ref=818XJE&utm_source=github&utm_medium=referral&utm_campaign=untidetect_tools) - Pricing starts at $3.2 for 1 GB and can be as low as $0.5/GB if buying 10,000 GB.
 
 # Buying accounts
 Hm. Cant get it right? You can always shortcut:
