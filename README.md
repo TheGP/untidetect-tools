@@ -60,7 +60,9 @@ Useless:
 * [MarketerBrowser](https://www.marketerbrowser.com/) - can't even switch user-agent without detection
 
 A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/stati/antidetect-palivo/). Example from the article: `if( Object.getOwnPropertyNames(navigator)[0] ) alert('fake parameters detected');`
-  
+
+* [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Patched Firefox 150 + Playwright wrapper, MIT licensed, self-hosted. Spoofing at the C++ level (no JS injection).
+
 # Detection tests
 
 Everything:
