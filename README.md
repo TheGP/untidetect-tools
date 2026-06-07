@@ -63,7 +63,6 @@ Useless:
 
 A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/stati/antidetect-palivo/). Example from the article: `if( Object.getOwnPropertyNames(navigator)[0] ) alert('fake parameters detected');`
 
-* [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Patched Firefox 150 + Playwright wrapper, MIT licensed, self-hosted. Spoofing at the C++ level (no JS injection).
 
 # Detection tests
 
@@ -130,6 +129,7 @@ For Puppeteer:
 For Playwright:
 * [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment
 * [Playwrigh-ghost](https://github.com/regseb/playwright-ghost) - Playwright with plugins to be a ghost
+* [Invisible-Playwright](https://github.com/feder-cr/invisible_playwright) - Patched Firefox 150 + Playwright wrapper, MIT licensed, self-hosted. Spoofing at the C++ level (no JS injection).
 
 For Selenium/Python:  
 * [NoDriver](https://github.com/ultrafunkamsterdam/nodriver) - successor of Undetected-chromedriver
