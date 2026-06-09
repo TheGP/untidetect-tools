@@ -67,6 +67,7 @@ A bit old [article on how anti-detect browsers can be detected](https://cpa.rip/
 # Detection tests
 
 Everything:
+* [Fingerprint.com](https://demo.fingerprint.com/playground) - bot detection from fingerprint.com
 * [Creep JS](https://abrahamjuliot.github.io/creepjs/) - advanced fingerprint information
 * [Pixelscan](https://pixelscan.net/) - simple fingerprint checker
 * [F.vision](https://fv.pro/check-privacy/general) - old f.vision
