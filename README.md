@@ -43,7 +43,7 @@ Not checked yet:
 * [Multizen](https://getmultizen.com/) - free, MIT
 * [DonutBrowser](https://donutbrowser.com/) - unlimited local
 * [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit, but supports VPN 🙄
-* [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - free
+* [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - not recent core free, $249 unlimited
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
 * [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
 * [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
