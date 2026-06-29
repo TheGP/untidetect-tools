@@ -40,6 +40,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 30 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
 
 Not checked yet:
+* [NullPrint](https://nullprint.net/sign/?ref=tvyllw0bk2) - starts $9/month for 20
 * [Multizen](https://getmultizen.com/) - free, MIT
 * [DonutBrowser](https://donutbrowser.com/) - unlimited local
 * [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit, but supports VPN 🙄
