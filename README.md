@@ -189,6 +189,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 [List of proxy providers](https://github.com/TheGP/proxy-providers-list) - 25+ proxy providers with price comparison
 [List of mobile proxies](https://github.com/TheGP/4g-proxies-providers) - including many small providers
 
+* [IPcook](https://www.ipcook.com/?ref=818XJE&utm_source=github&utm_medium=referral&utm_campaign=untidetect_tools) - $3.2/GB (goes down to $0.3/GB for large volume), single ISP proxy from $0.08/day, single DC proxy from $0.064/day
 * [BrightData](https://get.brightdata.com/jdpda3d3pu8n) - around $8/GB
 * [DataImpulse](https://dataimpulse.com/?aff=10601) - from $1/GB (has $5/5Gb welcome package, but normally top-up is $50+). IMAP/SMTP blocked.
 * [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) - $6/Gb (from 4.5), IPs: from $6/month per 20 (shared). IMAP/SMTP works.
