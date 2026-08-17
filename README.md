@@ -195,6 +195,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) - from $1.8/Gb residential, mobile from $2.2
 * [GeoNode](https://geonode.com/?ref=152763) - $3/Gb (from $0.45)
 * [Soax](https://soax.sjv.io/gONVj5) - starts at $6.6/GB and less
+* [GonzoProxy](https://gonzoproxy.com/?utm_source=github) - from $2/GB residential (purchased traffic never expires), mobile from $45/mo (unlimited traffic). No KYC required.
 
 # Buying accounts
 Hm. Cant get it right? You can always shortcut:
