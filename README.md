@@ -26,7 +26,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [Dolphin-anty](https://dolphin-anty.com/a/3047556) - 5 free, $89 for 100 😊
 * [RoxyBrowser](https://roxybrowser.com?code=1105EASA) - 5 free, $0.03-0.8 profile, offers free Netflix
 * [Octo Browser](https://go.octobrowser.net/signup/?p=10006676) - starts from €21 for 10  
-* [Kameleo](https://kameleo.io/?ref=21669) - starts €59/user with unlimited profiles
+* [Kameleo](https://kameleo.io/?ref=21669) - 300 minutes browser usage time for free, unlimited local profiles, Docker, regular updates, full SDK + great docs 😊
 * [Vmlogin](https://www.vmlogin.us/) - $99 for 200 profiles  
 * [Indigo](https://indigobrowser.com/) - €99 for 100 profiles  
 * [GhostBrowser](https://ghostbrowser.com/) - 4 profiles free, $21 unlimited ?
