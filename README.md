@@ -119,6 +119,7 @@ More tools can be found at https://github.com/kkoooqq/fakebrowser
 
 * [Firefox-Stealth](https://github.com/feder-cr/firefox-stealth) - 15 C++ patches against mozilla-central (Firefox 150.0.1) that change fingerprint at the source level (Canvas, WebGL, Fonts, Audio, WebRTC, Timezone). MPL-2.0.
 * [Privacy Manager](https://www.ivanovation.ro/modules/) - 12 modules to change fingerprint of your computer.
+* [ai-stealth-crawler](https://github.com/AntonLi-PM/ai-stealth-crawler) - Dual-engine anti-bot web crawler with TLS JA3/JA4 impersonation, stealth Playwright cascade, and dynamic residential proxy rotation.
 
 For Puppeteer:  
 * [Rebrowser](https://github.com/rebrowser/rebrowser-patches) - isolated environment
@@ -191,6 +192,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 
 * [BrightData](https://get.brightdata.com/jdpda3d3pu8n) - around $8/GB
 * [DataImpulse](https://dataimpulse.com/?aff=10601) - from $1/GB (has $5/5Gb welcome package, but normally top-up is $50+). IMAP/SMTP blocked.
+* [Ropond](https://ropond.com) - from $0.8/GB residential with 1GB free developer testing bandwidth. Clean residential ISP pools with sticky session leasing for anti-detect browsers.
 * [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) - $6/Gb (from 4.5), IPs: from $6/month per 20 (shared). IMAP/SMTP works.
 * [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) - from $1.8/Gb residential, mobile from $2.2
 * [GeoNode](https://geonode.com/?ref=152763) - $3/Gb (from $0.45)
