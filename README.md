@@ -43,10 +43,9 @@ If you're working on anything related to anti-detection, feel free to join — o
 Not checked yet:
 * [NullPrint](https://nullprint.net/sign/?ref=tvyllw0bk2) - starts $9/month for 20
 * [ShardBrowser](https://github.com/ProxyShard/ShardBrowser)
-* [Multizen](https://getmultizen.com/) - free, MIT
 * [DonutBrowser](https://donutbrowser.com/) - unlimited local
 * [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit, but supports VPN 🙄
-* [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - not recent core free, $249 unlimited
+* [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - not recent core free, $19+ [Multizen](https://getmultizen.com/) profile manager for cloak 
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
 * [LightPanda](https://lightpanda.io/) - not anti-detect, but fast browser for scraping 😊
 * [Whologin](https://whologin.com/) - free plan has unlimited profiles but no automation. paid - $89/everything 🙄
