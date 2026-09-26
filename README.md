@@ -81,6 +81,7 @@ Everything:
 * [WebbrowserTools](https://webbrowsertools.com/) - many tools to check fingerprint
 * [My own tool](https://reviewer.eugenebos.com/test) - the only benefit the code is plain, so you can find very easily how everything is tested.
 * [BrowserScan](https://www.browserscan.net/en)
+* [EnvTrace](https://envtrace.net/) - Free pre-login environment checker: fingerprint, IP/proxy quality, WebRTC leaks, timezone/language consistency, automation traces, health score
 
 Automation:
 * [Rebrowser-bot-detector](https://bot-detector.rebrowser.net/) - interesting test where you have to do some automation tasks and it will try to detect you
