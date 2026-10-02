@@ -201,6 +201,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 # Shops
 Hm. Cant get it right? You can always shortcut:
 * [AccsMarket](https://accsmarket.com/en/?ref=631958) - en/ru, crypto
+* [AccsTall](https://accstall.com/en) - en/tr, crypto
 * [DarkStore](https://dark.shopping/?p=197898) - ru lang, crypto / local russian bank payment
 
 Many other stuff can be found at [BlackHatWorld](blackhatworld.com) but usually more expensive.
