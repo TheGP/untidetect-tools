@@ -55,6 +55,7 @@ Not checked yet:
 * [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
 * [LinkenSphere](https://linkensphere.info/en/) - $30+/month. One of people found hidden process that it runs, can anyone confirm it?
 * [DisCloak](https://dicloak.com/download?rc=h0k3p25Z) - 5 free, $8/50 profiles
+* [GoUndetected](https://goundetected.io) - 7 days free, from $6 for 5 profiles, $39 for 50, dedicated static ISP proxies (own AS, UA/US), BYO OK
 <!--* [Afina](https://afina.io/en) - from $35/m unlimited profiles-->
 
 Useless:
