@@ -18,6 +18,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 
 # Anti-detect browsers
 * [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - 3 free for 1 month, $24 for 100 profiles, no unlimited plan, free proxies 🙄
+* [NullPrint](https://nullprint.net/sign/?ref=tvyllw0bk2) - starts $9/month for 20. Emulates Android Phone (Tested fingerprint and Turnstile)
 * [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs", 1 additional config $1 (API + driver automation) 🙄
 * [Multilogin](https://multilogin.com/#a_aid=secretbonus3) - starts from €74 for 100 profiles
 * [Incogniton](https://incogniton.com/aff/620515/) - 10 free for 2 months then 3 only, $29.99/Month for 50 🙄
@@ -41,7 +42,6 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 30 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
 
 Not checked yet:
-* [NullPrint](https://nullprint.net/sign/?ref=tvyllw0bk2) - starts $9/month for 20
 * [ShardBrowser](https://github.com/ProxyShard/ShardBrowser)
 * [DonutBrowser](https://donutbrowser.com/) - unlimited local
 * [DashNull](https://dashnull.com) - 10 free, $50 for unlimited profiles, free proxies, no fingerprint edit, but supports VPN 🙄
