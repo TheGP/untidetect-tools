@@ -214,6 +214,7 @@ Many other stuff can be found at [BlackHatWorld](blackhatworld.com) but usually 
 * [How to bypass PerimeterX](https://www.reddit.com/r/webscraping/comments/1ac34ob/how_to_bypass_perimeterx/kjrxv8n/)
 * Article [BotOrNot](https://incolumitas.com/pages/BotOrNot/)
 * Your [request fingerprint](https://tls.peet.ws/api/all)
+* [Spoof Me](https://spoof-me.com/) - free Chrome/Firefox extension, not a separate browser: switches user agent, language, timezone and screen signals and shows which fingerprinting APIs each page reads
 
 # Antidetection tips
 
