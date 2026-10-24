@@ -99,6 +99,7 @@ Captcha scoring:
 
 Connection:
 * [ProxyDetect](https://proxydetect.live/) - Proxy/VPN detection (implementing NikolaiT/zardaxt lib below) <!-- https://proxy.incolumitas.com/proxy_detect.html -->
+* [BM Proxy Checker](https://check.bmusproxy.com/) - shows if an IP is a mobile carrier, home ISP or datacenter IP (by ASN), plus WebRTC leak and speed test
 * [IPRoyal WebRTC leak](https://iproyal.com/webrtc-leak-test/) - WebRTC leak detection
 * [BrowserLeaks WebRTC leak](https://browserleaks.com/webrtc) - WebRTC leak detection
 * [NikolaiT/zardaxt](https://github.com/NikolaiT/zardaxt) - Passive TCP/IP fingerprinting
