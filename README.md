@@ -103,6 +103,7 @@ Connection:
 * [BrowserLeaks WebRTC leak](https://browserleaks.com/webrtc) - WebRTC leak detection
 * [NikolaiT/zardaxt](https://github.com/NikolaiT/zardaxt) - Passive TCP/IP fingerprinting
 * [ipQualityScore](https://www.ipqualityscore.com/) - checking your IP reputation and other stuff. Real Russian IPs and many other detected as VPN thou LOL. Has API
+* [VPNDetection](https://vpndetection.io/whatismyip) - VPN, proxy, Tor and hosting check for your IP against nine datasets. Has API
 * [FingerBank](https://fingerbank.org/) - API for checking TCP fingerprints by signature (Ja3 can [get here](https://tls.peet.ws/))
 * [DnsLeakRest](https://dnsleaktest.com/results.html) - DNS leak test
 * [BrowserLeaks DNS leak](https://browserleaks.com/dns) - DNS leak test
