@@ -186,6 +186,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [5Sim](https://5sim.net/) - expensive for some countries but has activation rate data available (Thailand for example)
 * [Get SMS Online](https://getsms.online/) - only USA numbers, top up from $5, rate from $0.10. Free numbers available for testing.
 * [SMSPool](https://www.smspool.net/) - a little expensive depending on services but accepts card payments, min top up $10
+* [SMSPing](https://smsping.net/?utm_source=untidetect-tools&utm_medium=directory&utm_campaign=backlinks) - Temporary virtual numbers for SMS/OTP verification. 150+ countries, 1,300+ services. Crypto-first (mainly USDT on TRC20/ERC20/BEP20; also TRX, ETH, BNB). Min top-up $10. SMS-Activate compatible API.
 
 # Proxies
 [List of proxy providers](https://github.com/TheGP/proxy-providers-list) - 25+ proxy providers with price comparison
