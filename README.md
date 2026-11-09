@@ -192,6 +192,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 [List of mobile proxies](https://github.com/TheGP/4g-proxies-providers) - including many small providers
 
 * [BrightData](https://get.brightdata.com/jdpda3d3pu8n) - around $8/GB
+* [HypeProxies](https://hypeproxies.com/proxies/isp-proxies) - dedicated US ISP proxies with unlimited bandwidth, $65/month for 50 IPs ($1.30/IP).
 * [DataImpulse](https://dataimpulse.com/?aff=10601) - from $1/GB (has $5/5Gb welcome package, but normally top-up is $50+). IMAP/SMTP blocked.
 * [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) - $6/Gb (from 4.5), IPs: from $6/month per 20 (shared). IMAP/SMTP works.
 * [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) - from $1.8/Gb residential, mobile from $2.2
