@@ -149,6 +149,7 @@ For request libs:
 * [CycleTLS for NodeJS/GO](https://github.com/Danny-Dasilva/CycleTLS)
 * [curl_cffi for Python](https://github.com/yifeikong/curl_cffi)
 * [Got-Scraping for NodeJS](https://github.com/apify/got-scraping)
+* [Browsersmith for NodeJS/TS](https://github.com/jverneuer/browsersmith) - browser-identical TLS/HTTP2 fingerprints
 
 Other:
 * [NutJs](https://nutjs.dev/) - JS OS level automation, use package [@nut-tree-fork](https://www.npmjs.com/package/@nut-tree-fork/nut-js) for precompiled binaries
