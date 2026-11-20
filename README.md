@@ -38,6 +38,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [Wade](https://wade.is/) - from $30/month, automation from $160 🙄
 * [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox 😊
 * [Hexium Browser](https://github.com/HeadlessXLabs/hexium-browser) - Playwright `launch()` + patched Chromium 151 (C++ personas, no JS injectors). Linux x86_64 alpha, PyPI `hexium-browser`, AGPL 😊
+* [Clearcote](https://github.com/clearcotelabs/clearcote-browser) - Playwright/Puppeteer `launch()` + patched Chromium (fingerprint set in C++, no JS injection). Python, Node and .NET, Windows + Linux. Open build free without an account (BSD-3), licensed build on the newest Chromium from $15/month (15 browsers) or $49/month (250 browsers) 😊
 * [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
 * [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 30 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
 
