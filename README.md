@@ -197,6 +197,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) - from $1.8/Gb residential, mobile from $2.2
 * [GeoNode](https://geonode.com/?ref=152763) - $3/Gb (from $0.45)
 * [Soax](https://soax.sjv.io/gONVj5) - starts at $6.6/GB and less
+* [Ashburn Proxies](https://ashburnproxies.com/?utm_source=github) - ISP and residential proxies with IP rotation and sticky sessions
 
 # Shops
 Hm. Cant get it right? You can always shortcut:
