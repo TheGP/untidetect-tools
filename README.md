@@ -55,6 +55,7 @@ Not checked yet:
 * [ADBLogin](https://adblogin.com) - The First anti-detect browser free forever
 * [LinkenSphere](https://linkensphere.info/en/) - $30+/month. One of people found hidden process that it runs, can anyone confirm it?
 * [DisCloak](https://dicloak.com/download?rc=h0k3p25Z) - 5 free, $8/50 profiles
+* [AUG WorkSpace](https://aug.jokerdao.win/) - macOS-native WebKit antidetect browser (per-process `WKWebsiteDataStore`, local-first, proxy-follow egress); free tier for local browsing, Team+ for zero-CDP HTTP API / Python SDK / MCP automation ([public docs & WebKit benchmarks](https://github.com/givegive0709-lgtm/aug-workspace)) 🙄
 <!--* [Afina](https://afina.io/en) - from $35/m unlimited profiles-->
 
 Useless:
